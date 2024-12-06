@@ -1,0 +1,1643 @@
+,region,category,mode,powertrain,year,percent of vehicles
+1,Australia,Historical,Cars,EV,2011,0.00650000013411
+6,Australia,Historical,Cars,EV,2012,0.029999999329448
+13,Australia,Historical,Cars,EV,2013,0.034000001847744
+18,Australia,Historical,Cars,EV,2014,0.159999996423721
+25,Australia,Historical,Cars,EV,2015,0.200000002980232
+30,Australia,Historical,Cars,EV,2016,0.150000005960464
+37,Australia,Historical,Cars,EV,2017,0.259999990463257
+46,Australia,Historical,Cars,EV,2018,0.419999986886978
+53,Australia,Historical,Cars,EV,2019,1.20000004768372
+60,Australia,Historical,Cars,EV,2020,1.10000002384186
+68,Australia,Historical,Cars,EV,2021,2.79999995231628
+77,Australia,Historical,Cars,EV,2022,5.09999990463257
+90,Australia,Historical,Cars,EV,2023,12.0
+106,Austria,Historical,Cars,EV,2013,0.200000002980232
+119,Austria,Historical,Cars,EV,2014,0.569999992847443
+122,Austria,Historical,Cars,EV,2015,0.899999976158142
+138,Austria,Historical,Cars,EV,2016,1.5
+141,Austria,Historical,Cars,EV,2017,2.0
+158,Austria,Historical,Cars,EV,2018,2.59999990463257
+161,Austria,Historical,Cars,EV,2019,3.5
+178,Austria,Historical,Cars,EV,2020,9.5
+181,Austria,Historical,Cars,EV,2021,20.0
+198,Austria,Historical,Cars,EV,2022,22.0
+201,Austria,Historical,Cars,EV,2023,26.0
+216,Belgium,Historical,Cars,EV,2010,0.009999999776483
+221,Belgium,Historical,Vans,EV,2010,0.013000000268221
+227,Belgium,Historical,Trucks,EV,2011,0.009800000116229
+229,Belgium,Historical,Vans,EV,2011,0.039000000804663
+235,Belgium,Historical,Cars,EV,2011,0.052000001072884
+248,Belgium,Historical,Cars,EV,2012,0.189999997615814
+253,Belgium,Historical,Vans,EV,2012,0.46000000834465
+260,Belgium,Historical,Vans,EV,2013,0.189999997615814
+267,Belgium,Historical,Cars,EV,2013,0.119999997317791
+281,Belgium,Historical,Cars,EV,2014,0.409999996423721
+290,Belgium,Historical,Vans,EV,2014,0.180000007152557
+292,Belgium,Historical,Buses,EV,2014,0.259999990463257
+294,Belgium,Historical,Trucks,EV,2014,0.013000000268221
+299,Belgium,Historical,Vans,EV,2015,0.109999999403954
+307,Belgium,Historical,Cars,EV,2015,0.769999980926514
+323,Belgium,Historical,Cars,EV,2016,1.70000004768372
+332,Belgium,Historical,Vans,EV,2016,0.209999993443489
+335,Belgium,Historical,Trucks,EV,2016,0.009999999776483
+340,Belgium,Historical,Vans,EV,2017,0.170000001788139
+342,Belgium,Historical,Buses,EV,2017,0.230000004172325
+349,Belgium,Historical,Cars,EV,2017,2.59999990463257
+370,Belgium,Historical,Cars,EV,2018,2.40000009536743
+378,Belgium,Historical,Buses,EV,2018,1.39999997615814
+380,Belgium,Historical,Vans,EV,2018,0.340000003576279
+383,Belgium,Historical,Trucks,EV,2018,0.008799999952316
+387,Belgium,Historical,Vans,EV,2019,0.490000009536743
+389,Belgium,Historical,Buses,EV,2019,3.70000004768372
+396,Belgium,Historical,Cars,EV,2019,3.20000004768372
+422,Belgium,Historical,Cars,EV,2020,11.0
+430,Belgium,Historical,Buses,EV,2020,7.0
+432,Belgium,Historical,Vans,EV,2020,0.699999988079071
+434,Belgium,Historical,Trucks,EV,2020,0.079000003635883
+437,Belgium,Historical,Trucks,EV,2021,0.059999998658896
+439,Belgium,Historical,Vans,EV,2021,0.879999995231628
+441,Belgium,Historical,Buses,EV,2021,26.0
+449,Belgium,Historical,Cars,EV,2021,18.0
+478,Belgium,Historical,Cars,EV,2022,26.0
+486,Belgium,Historical,Buses,EV,2022,11.0
+488,Belgium,Historical,Vans,EV,2022,3.40000009536743
+490,Belgium,Historical,Trucks,EV,2022,0.360000014305115
+493,Belgium,Historical,Trucks,EV,2023,1.70000004768372
+495,Belgium,Historical,Vans,EV,2023,4.59999990463257
+497,Belgium,Historical,Buses,EV,2023,62.0
+507,Belgium,Historical,Cars,EV,2023,41.0
+521,Brazil,Historical,Cars,EV,2010,0.00034999998752
+522,Brazil,Historical,Cars,EV,2011,0.000280000007479
+526,Brazil,Historical,Cars,EV,2012,0.001300000003539
+527,Brazil,Historical,Cars,EV,2013,0.002400000113994
+528,Brazil,Historical,Buses,EV,2013,0.00760000012815
+529,Brazil,Historical,Vans,EV,2013,0.001399999950081
+537,Brazil,Historical,Vans,EV,2014,0.002600000007078
+538,Brazil,Historical,Cars,EV,2014,0.002199999988079
+541,Brazil,Historical,Cars,EV,2015,0.004199999850243
+542,Brazil,Historical,Vans,EV,2015,0.00089999998454
+557,Brazil,Historical,Vans,EV,2016,0.002099999925122
+558,Brazil,Historical,Cars,EV,2016,0.010999999940395
+561,Brazil,Historical,Cars,EV,2017,0.023000000044704
+562,Brazil,Historical,Vans,EV,2017,0.006000000052154
+564,Brazil,Historical,Buses,EV,2017,0.009800000116229
+582,Brazil,Historical,Buses,EV,2018,0.050000000745058
+584,Brazil,Historical,Vans,EV,2018,0.001399999950081
+586,Brazil,Historical,Cars,EV,2018,0.019999999552965
+589,Brazil,Historical,Trucks,EV,2018,0.052999999374151
+594,Brazil,Historical,Trucks,EV,2019,0.023000000044704
+597,Brazil,Historical,Cars,EV,2019,0.086000002920628
+599,Brazil,Historical,Vans,EV,2019,0.003700000001118
+601,Brazil,Historical,Buses,EV,2019,0.068999998271465
+624,Brazil,Historical,Buses,EV,2020,0.109999999403954
+626,Brazil,Historical,Vans,EV,2020,0.01799999922514
+628,Brazil,Historical,Cars,EV,2020,0.159999996423721
+631,Brazil,Historical,Trucks,EV,2020,0.017000000923872
+636,Brazil,Historical,Trucks,EV,2021,0.230000004172325
+639,Brazil,Historical,Cars,EV,2021,0.899999976158142
+641,Brazil,Historical,Vans,EV,2021,0.035999998450279
+643,Brazil,Historical,Buses,EV,2021,0.730000019073486
+671,Brazil,Historical,Buses,EV,2022,1.70000004768372
+673,Brazil,Historical,Vans,EV,2022,0.129999995231628
+675,Brazil,Historical,Cars,EV,2022,1.20000004768372
+678,Brazil,Historical,Trucks,EV,2022,0.550000011920929
+683,Brazil,Historical,Trucks,EV,2023,0.560000002384186
+686,Brazil,Historical,Cars,EV,2023,3.0
+688,Brazil,Historical,Vans,EV,2023,0.159999996423721
+690,Brazil,Historical,Buses,EV,2023,0.5
+703,Bulgaria,Historical,Cars,EV,2015,0.090000003576279
+707,Bulgaria,Historical,Cars,EV,2016,0.050000000745058
+708,Bulgaria,Historical,Cars,EV,2017,0.340000003576279
+713,Bulgaria,Historical,Cars,EV,2018,0.639999985694885
+714,Bulgaria,Historical,Cars,EV,2019,0.670000016689301
+721,Bulgaria,Historical,Cars,EV,2021,2.20000004768372
+722,Bulgaria,Historical,Cars,EV,2022,4.0
+727,Bulgaria,Historical,Cars,EV,2023,5.80000019073486
+728,Canada,Historical,Trucks,EV,2010,0.00109999999404
+735,Canada,Historical,Cars,EV,2011,0.041000001132488
+741,Canada,Historical,Trucks,EV,2011,0.00179999996908
+742,Canada,Historical,Trucks,EV,2012,0.002700000070035
+748,Canada,Historical,Cars,EV,2012,0.140000000596046
+761,Canada,Historical,Cars,EV,2013,0.219999998807907
+767,Canada,Historical,Trucks,EV,2013,0.007400000002235
+768,Canada,Historical,Trucks,EV,2014,0.004900000058115
+774,Canada,Historical,Cars,EV,2014,0.349999994039536
+787,Canada,Historical,Cars,EV,2015,0.449999988079071
+790,Canada,Historical,Vans,EV,2015,0.002400000113994
+801,Canada,Historical,Trucks,EV,2015,0.007499999832362
+810,Canada,Historical,Buses,EV,2016,0.119999997317791
+813,Canada,Historical,Cars,EV,2016,0.759999990463257
+824,Canada,Historical,Cars,EV,2017,1.0
+827,Canada,Historical,Buses,EV,2017,0.25
+844,Canada,Historical,Buses,EV,2018,0.439999997615814
+848,Canada,Historical,Cars,EV,2018,2.79999995231628
+856,Canada,Historical,Trucks,EV,2018,0.005599999800324
+863,Canada,Historical,Cars,EV,2019,3.40000009536743
+868,Canada,Historical,Buses,EV,2019,1.20000004768372
+885,Canada,Historical,Buses,EV,2020,2.29999995231628
+889,Canada,Historical,Cars,EV,2020,4.19999980926514
+890,Canada,Historical,Vans,EV,2020,1.39999997615814
+906,Canada,Historical,Vans,EV,2021,1.79999995231628
+907,Canada,Historical,Cars,EV,2021,6.40000009536743
+911,Canada,Historical,Buses,EV,2021,6.0
+920,Canada,Historical,Trucks,EV,2021,0.020999999716878
+921,Canada,Historical,Trucks,EV,2022,0.600000023841858
+930,Canada,Historical,Buses,EV,2022,6.09999990463257
+934,Canada,Historical,Cars,EV,2022,9.5
+935,Canada,Historical,Vans,EV,2022,5.09999990463257
+953,Canada,Historical,Vans,EV,2023,5.5
+954,Canada,Historical,Cars,EV,2023,13.0
+958,Canada,Historical,Buses,EV,2023,23.0
+967,Canada,Historical,Trucks,EV,2023,1.29999995231628
+968,Chile,Historical,Cars,EV,2011,0.002400000113994
+979,Chile,Historical,Cars,EV,2012,0.002000000094995
+980,Chile,Historical,Cars,EV,2013,0.001900000032038
+993,Chile,Historical,Cars,EV,2014,0.007100000046194
+994,Chile,Historical,Cars,EV,2015,0.017000000923872
+1009,Chile,Historical,Cars,EV,2016,0.013000000268221
+1010,Chile,Historical,Cars,EV,2017,0.061000000685454
+1025,Chile,Historical,Cars,EV,2018,0.070000000298023
+1026,Chile,Historical,Cars,EV,2019,0.140000000596046
+1041,Chile,Historical,Cars,EV,2020,0.159999996423721
+1042,Chile,Historical,Cars,EV,2021,0.189999997615814
+1061,Chile,Historical,Cars,EV,2022,0.5
+1062,Chile,Historical,Cars,EV,2023,0.310000002384186
+1079,China,Historical,Buses,EV,2010,0.189999997615814
+1085,China,Historical,Vans,EV,2010,0.009999999776483
+1087,China,Historical,Cars,EV,2010,0.009999999776483
+1104,China,Historical,Cars,EV,2011,0.034000001847744
+1106,China,Historical,Vans,EV,2011,0.016000000759959
+1108,China,Historical,Buses,EV,2011,0.529999971389771
+1137,China,Historical,Buses,EV,2012,1.29999995231628
+1139,China,Historical,Vans,EV,2012,0.072999998927116
+1141,China,Historical,Cars,EV,2012,0.072999998927116
+1158,China,Historical,Cars,EV,2013,0.094999998807907
+1160,China,Historical,Vans,EV,2013,0.07599999755621
+1162,China,Historical,Buses,EV,2013,2.59999990463257
+1193,China,Historical,Buses,EV,2014,8.0
+1195,China,Historical,Vans,EV,2014,0.045000001788139
+1197,China,Historical,Cars,EV,2014,0.400000005960465
+1216,China,Historical,Trucks,EV,2015,1.5
+1217,China,Historical,Cars,EV,2015,1.0
+1219,China,Historical,Vans,EV,2015,1.39999997615814
+1221,China,Historical,Buses,EV,2015,38.0
+1261,China,Historical,Buses,EV,2016,53.0
+1263,China,Historical,Vans,EV,2016,0.879999995231628
+1265,China,Historical,Cars,EV,2016,1.5
+1266,China,Historical,Trucks,EV,2016,3.20000004768372
+1287,China,Historical,Trucks,EV,2017,3.70000004768372
+1288,China,Historical,Cars,EV,2017,2.40000009536743
+1290,China,Historical,Vans,EV,2017,4.90000009536743
+1292,China,Historical,Buses,EV,2017,60.0
+1338,China,Historical,Buses,EV,2018,64.0
+1340,China,Historical,Vans,EV,2018,3.5
+1342,China,Historical,Cars,EV,2018,4.69999980926514
+1343,China,Historical,Trucks,EV,2018,1.89999997615814
+1364,China,Historical,Trucks,EV,2019,1.20000004768372
+1365,China,Historical,Cars,EV,2019,5.0
+1367,China,Historical,Vans,EV,2019,1.60000002384186
+1369,China,Historical,Buses,EV,2019,61.0
+1404,China,Projection-APS,Buses,EV,2020,66.0
+1449,China,Historical,Buses,EV,2020,66.0
+1451,China,Historical,Vans,EV,2020,1.39999997615814
+1453,China,Historical,Cars,EV,2020,5.69999980926514
+1454,China,Historical,Trucks,EV,2020,0.610000014305115
+1470,China,Projection-APS,Vans,EV,2020,1.39999997615814
+1472,China,Projection-APS,Cars,EV,2020,5.69999980926514
+1474,China,Projection-APS,Trucks,EV,2020,0.610000014305115
+1494,China,Projection-STEPS,Buses,EV,2020,66.0
+1496,China,Projection-STEPS,Vans,EV,2020,1.39999997615814
+1498,China,Projection-STEPS,Cars,EV,2020,5.69999980926514
+1500,China,Projection-STEPS,Trucks,EV,2020,0.610000014305115
+1547,China,Projection-STEPS,Trucks,EV,2021,0.75
+1549,China,Projection-STEPS,Cars,EV,2021,16.0
+1551,China,Projection-STEPS,Vans,EV,2021,4.09999990463257
+1553,China,Projection-STEPS,Buses,EV,2021,56.0
+1562,China,Projection-APS,Trucks,EV,2021,0.75
+1564,China,Projection-APS,Cars,EV,2021,16.0
+1566,China,Projection-APS,Vans,EV,2021,4.09999990463257
+1585,China,Historical,Trucks,EV,2021,0.75
+1586,China,Historical,Cars,EV,2021,16.0
+1588,China,Historical,Vans,EV,2021,4.09999990463257
+1590,China,Historical,Buses,EV,2021,56.0
+1651,China,Projection-APS,Buses,EV,2021,56.0
+1668,China,Projection-APS,Buses,EV,2022,66.0
+1734,China,Historical,Buses,EV,2022,66.0
+1736,China,Historical,Vans,EV,2022,11.0
+1738,China,Historical,Cars,EV,2022,29.0
+1739,China,Historical,Trucks,EV,2022,3.09999990463257
+1758,China,Projection-APS,Vans,EV,2022,11.0
+1760,China,Projection-APS,Cars,EV,2022,29.0
+1762,China,Projection-APS,Trucks,EV,2022,3.09999990463257
+1766,China,Projection-STEPS,Buses,EV,2022,66.0
+1768,China,Projection-STEPS,Vans,EV,2022,11.0
+1770,China,Projection-STEPS,Cars,EV,2022,29.0
+1772,China,Projection-STEPS,Trucks,EV,2022,3.09999990463257
+1822,China,Projection-STEPS,Trucks,EV,2023,2.79999995231628
+1824,China,Projection-STEPS,Cars,EV,2023,38.0
+1826,China,Projection-STEPS,Vans,EV,2023,12.0
+1828,China,Projection-STEPS,Buses,EV,2023,50.0
+1832,China,Projection-APS,Trucks,EV,2023,2.79999995231628
+1834,China,Projection-APS,Cars,EV,2023,38.0
+1836,China,Projection-APS,Vans,EV,2023,12.0
+1854,China,Historical,Trucks,EV,2023,2.79999995231628
+1855,China,Historical,Cars,EV,2023,38.0
+1857,China,Historical,Vans,EV,2023,12.0
+1859,China,Historical,Buses,EV,2023,50.0
+1924,China,Projection-APS,Buses,EV,2023,50.0
+1937,China,Projection-APS,Buses,EV,2025,50.0
+1940,China,Projection-APS,Trucks,EV,2025,8.0
+2011,China,Projection-APS,Vans,EV,2025,25.0
+2013,China,Projection-APS,Cars,EV,2025,49.0
+2017,China,Projection-STEPS,Buses,EV,2025,50.0
+2019,China,Projection-STEPS,Vans,EV,2025,25.0
+2020,China,Projection-STEPS,Trucks,EV,2025,8.0
+2022,China,Projection-STEPS,Cars,EV,2025,49.0
+2027,China,Projection-STEPS,Cars,EV,2030,68.0
+2029,China,Projection-STEPS,Trucks,EV,2030,28.0
+2030,China,Projection-STEPS,Vans,EV,2030,47.0
+2032,China,Projection-STEPS,Buses,EV,2030,64.0
+2036,China,Projection-APS,Cars,EV,2030,68.0
+2038,China,Projection-APS,Vans,EV,2030,47.0
+2109,China,Projection-APS,Trucks,EV,2030,27.0
+2115,China,Projection-APS,Buses,EV,2030,64.0
+2117,China,Projection-APS,Buses,EV,2035,72.0
+2124,China,Projection-APS,Trucks,EV,2035,46.0
+2195,China,Projection-APS,Vans,EV,2035,68.0
+2197,China,Projection-APS,Cars,EV,2035,85.0
+2201,China,Projection-STEPS,Buses,EV,2035,72.0
+2203,China,Projection-STEPS,Vans,EV,2035,68.0
+2204,China,Projection-STEPS,Trucks,EV,2035,46.0
+2206,China,Projection-STEPS,Cars,EV,2035,85.0
+2211,Colombia,Historical,Cars,EV,2015,0.017000000923872
+2212,Colombia,Historical,Cars,EV,2016,0.023000000044704
+2217,Colombia,Historical,Cars,EV,2017,0.06700000166893
+2218,Colombia,Historical,Cars,EV,2018,0.239999994635582
+2223,Colombia,Historical,Cars,EV,2019,0.550000011920929
+2224,Colombia,Historical,Cars,EV,2020,0.569999992847443
+2229,Colombia,Historical,Cars,EV,2021,1.20000004768372
+2230,Colombia,Historical,Cars,EV,2022,2.0
+2235,Colombia,Historical,Cars,EV,2023,3.90000009536743
+2237,Costa Rica,Historical,Cars,EV,2015,0.009600000455976
+2240,Costa Rica,Historical,Cars,EV,2016,0.025000000372529
+2243,Costa Rica,Historical,Cars,EV,2017,0.059999998658896
+2246,Costa Rica,Historical,Cars,EV,2018,0.589999973773956
+2249,Costa Rica,Historical,Cars,EV,2019,1.5
+2252,Costa Rica,Historical,Cars,EV,2020,2.70000004768372
+2255,Costa Rica,Historical,Cars,EV,2021,3.90000009536743
+2258,Costa Rica,Historical,Cars,EV,2022,5.5
+2261,Costa Rica,Historical,Cars,EV,2023,12.0
+2263,Croatia,Historical,Cars,EV,2019,0.409999996423721
+2268,Croatia,Historical,Cars,EV,2020,1.89999997615814
+2269,Croatia,Historical,Cars,EV,2021,3.79999995231628
+2274,Croatia,Historical,Cars,EV,2022,5.0
+2275,Croatia,Historical,Cars,EV,2023,4.59999990463257
+2279,Cyprus,Historical,Cars,EV,2019,0.189999997615814
+2280,Cyprus,Historical,Cars,EV,2020,1.39999997615814
+2285,Cyprus,Historical,Cars,EV,2021,1.70000004768372
+2286,Cyprus,Historical,Cars,EV,2022,5.40000009536743
+2291,Cyprus,Historical,Cars,EV,2023,8.80000019073486
+2292,Czech Republic,Historical,Cars,EV,2015,0.129999995231628
+2295,Czech Republic,Historical,Cars,EV,2016,0.079999998211861
+2296,Czech Republic,Historical,Cars,EV,2017,0.140000000596046
+2300,Czech Republic,Historical,Cars,EV,2018,0.379999995231628
+2301,Czech Republic,Historical,Cars,EV,2019,0.490000009536743
+2306,Czech Republic,Historical,Cars,EV,2020,2.5
+2307,Czech Republic,Historical,Cars,EV,2021,3.09999990463257
+2312,Czech Republic,Historical,Cars,EV,2022,3.90000009536743
+2313,Czech Republic,Historical,Cars,EV,2023,5.40000009536743
+2318,Denmark,Historical,Trucks,EV,2010,0.140000000596046
+2319,Denmark,Historical,Vans,EV,2010,0.037000000476837
+2337,Denmark,Historical,Vans,EV,2011,0.097000002861023
+2339,Denmark,Historical,Buses,EV,2011,0.119999997317791
+2342,Denmark,Historical,Cars,EV,2011,0.25
+2343,Denmark,Historical,Cars,EV,2012,0.28999999165535
+2346,Denmark,Historical,Trucks,EV,2012,0.027000000700355
+2347,Denmark,Historical,Buses,EV,2012,0.129999995231628
+2349,Denmark,Historical,Vans,EV,2012,0.560000002384186
+2381,Denmark,Historical,Vans,EV,2013,0.439999997615814
+2383,Denmark,Historical,Buses,EV,2013,0.270000010728836
+2384,Denmark,Historical,Trucks,EV,2013,0.016000000759959
+2387,Denmark,Historical,Cars,EV,2013,0.280000001192093
+2388,Denmark,Historical,Cars,EV,2014,0.899999976158142
+2393,Denmark,Historical,Vans,EV,2014,0.170000001788139
+2421,Denmark,Historical,Vans,EV,2015,1.10000002384186
+2426,Denmark,Historical,Cars,EV,2015,2.29999995231628
+2427,Denmark,Historical,Cars,EV,2016,0.850000023841858
+2432,Denmark,Historical,Vans,EV,2016,0.379999995231628
+2433,Denmark,Historical,Buses,EV,2016,0.300000011920929
+2464,Denmark,Historical,Vans,EV,2017,0.259999990463257
+2467,Denmark,Historical,Trucks,EV,2017,0.014000000432134
+2470,Denmark,Historical,Cars,EV,2017,0.600000023841858
+2471,Denmark,Historical,Cars,EV,2018,2.09999990463257
+2474,Denmark,Historical,Trucks,EV,2018,0.043000001460314
+2477,Denmark,Historical,Vans,EV,2018,0.75
+2478,Denmark,Historical,Buses,EV,2018,0.150000005960464
+2514,Denmark,Historical,Buses,EV,2019,7.69999980926514
+2515,Denmark,Historical,Vans,EV,2019,0.910000026226044
+2518,Denmark,Historical,Trucks,EV,2019,0.043999999761582
+2521,Denmark,Historical,Cars,EV,2019,4.19999980926514
+2522,Denmark,Historical,Cars,EV,2020,16.0
+2525,Denmark,Historical,Trucks,EV,2020,0.560000002384186
+2528,Denmark,Historical,Vans,EV,2020,2.5
+2529,Denmark,Historical,Buses,EV,2020,2.90000009536743
+2572,Denmark,Historical,Buses,EV,2021,18.0
+2573,Denmark,Historical,Vans,EV,2021,5.69999980926514
+2576,Denmark,Historical,Trucks,EV,2021,0.819999992847443
+2579,Denmark,Historical,Cars,EV,2021,35.0
+2580,Denmark,Historical,Cars,EV,2022,39.0
+2583,Denmark,Historical,Trucks,EV,2022,2.09999990463257
+2586,Denmark,Historical,Vans,EV,2022,8.69999980926514
+2587,Denmark,Historical,Buses,EV,2022,34.0
+2627,Denmark,Historical,Buses,EV,2023,19.0
+2628,Denmark,Historical,Vans,EV,2023,13.0
+2631,Denmark,Historical,Trucks,EV,2023,5.5
+2634,Denmark,Historical,Cars,EV,2023,46.0
+2635,Estonia,Historical,Cars,EV,2015,0.159999996423721
+2638,Estonia,Historical,Cars,EV,2016,0.150000005960464
+2639,Estonia,Historical,Cars,EV,2017,0.180000007152557
+2644,Estonia,Historical,Cars,EV,2018,0.46000000834465
+2645,Estonia,Historical,Cars,EV,2019,0.360000014305115
+2650,Estonia,Historical,Cars,EV,2020,1.79999995231628
+2651,Estonia,Historical,Cars,EV,2021,3.20000004768372
+2656,Estonia,Historical,Cars,EV,2022,5.40000009536743
+2657,Estonia,Historical,Cars,EV,2023,8.80000019073486
+2660,EU27,Historical,Buses,EV,2010,0.400000005960465
+2676,EU27,Historical,Vans,EV,2010,0.100000001490116
+2678,EU27,Historical,Cars,EV,2010,0.009999999776483
+2680,EU27,Historical,Trucks,EV,2010,0.012000000104308
+2688,EU27,Historical,Cars,EV,2011,0.064999997615814
+2690,EU27,Historical,Vans,EV,2011,0.170000001788139
+2700,EU27,Historical,Trucks,EV,2011,0.00400000018999
+2706,EU27,Historical,Buses,EV,2011,0.109999999403954
+2709,EU27,Historical,Buses,EV,2012,0.150000005960464
+2715,EU27,Historical,Trucks,EV,2012,0.003899999894202
+2726,EU27,Historical,Vans,EV,2012,0.579999983310699
+2728,EU27,Historical,Cars,EV,2012,0.189999997615814
+2736,EU27,Historical,Cars,EV,2013,0.469999998807907
+2738,EU27,Historical,Vans,EV,2013,0.620000004768372
+2750,EU27,Historical,Trucks,EV,2013,0.006200000178069
+2756,EU27,Historical,Buses,EV,2013,0.219999998807907
+2761,EU27,Historical,Buses,EV,2014,0.699999988079071
+2767,EU27,Historical,Trucks,EV,2014,0.013000000268221
+2783,EU27,Historical,Vans,EV,2014,0.589999973773956
+2785,EU27,Historical,Cars,EV,2014,0.560000002384186
+2792,EU27,Historical,Cars,EV,2015,1.10000002384186
+2794,EU27,Historical,Vans,EV,2015,0.649999976158142
+2809,EU27,Historical,Trucks,EV,2015,0.006200000178069
+2815,EU27,Historical,Buses,EV,2015,0.389999985694885
+2824,EU27,Historical,Buses,EV,2016,1.70000004768372
+2830,EU27,Historical,Trucks,EV,2016,0.017000000923872
+2846,EU27,Historical,Vans,EV,2016,0.75
+2848,EU27,Historical,Cars,EV,2016,0.980000019073486
+2855,EU27,Historical,Cars,EV,2017,1.29999995231628
+2857,EU27,Historical,Vans,EV,2017,0.939999997615814
+2873,EU27,Historical,Trucks,EV,2017,0.014000000432134
+2879,EU27,Historical,Buses,EV,2017,0.939999997615814
+2890,EU27,Historical,Buses,EV,2018,1.70000004768372
+2896,EU27,Historical,Trucks,EV,2018,0.109999999403954
+2911,EU27,Historical,Vans,EV,2018,1.29999995231628
+2913,EU27,Historical,Cars,EV,2018,1.89999997615814
+2920,EU27,Historical,Cars,EV,2019,2.90000009536743
+2922,EU27,Historical,Vans,EV,2019,1.5
+2937,EU27,Historical,Trucks,EV,2019,0.230000004172325
+2943,EU27,Historical,Buses,EV,2019,4.0
+2956,EU27,Historical,Buses,EV,2020,6.30000019073486
+2961,EU27,Historical,Trucks,EV,2020,0.389999985694885
+2976,EU27,Historical,Vans,EV,2020,2.20000004768372
+2978,EU27,Historical,Cars,EV,2020,10.0
+2987,EU27,Historical,Cars,EV,2021,17.0
+2989,EU27,Historical,Vans,EV,2021,3.0
+2991,EU27,Historical,Buses,EV,2021,10.0
+3006,EU27,Historical,Trucks,EV,2021,0.479999989271164
+3027,EU27,Historical,Trucks,EV,2022,0.810000002384186
+3041,EU27,Historical,Buses,EV,2022,12.0
+3043,EU27,Historical,Vans,EV,2022,5.09999990463257
+3045,EU27,Historical,Cars,EV,2022,21.0
+3054,EU27,Historical,Cars,EV,2023,22.0
+3056,EU27,Historical,Vans,EV,2023,7.59999990463257
+3058,EU27,Historical,Buses,EV,2023,15.0
+3072,EU27,Historical,Trucks,EV,2023,2.29999995231628
+3100,Europe,Historical,Vans,EV,2010,0.08500000089407
+3103,Europe,Historical,Buses,EV,2010,0.189999997615814
+3104,Europe,Historical,Cars,EV,2010,0.012000000104308
+3108,Europe,Historical,Trucks,EV,2010,0.008600000292063
+3133,Europe,Historical,Trucks,EV,2011,0.003500000108033
+3138,Europe,Historical,Cars,EV,2011,0.074000000953674
+3139,Europe,Historical,Buses,EV,2011,0.050000000745058
+3142,Europe,Historical,Vans,EV,2011,0.129999995231628
+3172,Europe,Historical,Vans,EV,2012,0.430000007152557
+3175,Europe,Historical,Buses,EV,2012,0.086999997496605
+3176,Europe,Historical,Cars,EV,2012,0.200000002980232
+3181,Europe,Historical,Trucks,EV,2012,0.003800000064075
+3205,Europe,Historical,Trucks,EV,2013,0.005299999844283
+3210,Europe,Historical,Cars,EV,2013,0.419999986886978
+3211,Europe,Historical,Buses,EV,2013,0.140000000596046
+3214,Europe,Historical,Vans,EV,2013,0.449999988079071
+3256,Europe,Historical,Vans,EV,2014,0.479999989271164
+3259,Europe,Historical,Buses,EV,2014,0.360000014305115
+3260,Europe,Historical,Cars,EV,2014,0.660000026226044
+3265,Europe,Historical,Trucks,EV,2014,0.009999999776483
+3283,Europe,Historical,Trucks,EV,2015,0.006099999882281
+3287,Europe,Historical,Cars,EV,2015,1.20000004768372
+3288,Europe,Historical,Buses,EV,2015,0.170000001788139
+3290,Europe,Historical,Vans,EV,2015,0.519999980926514
+3344,Europe,Historical,Vans,EV,2016,0.589999973773956
+3346,Europe,Historical,Buses,EV,2016,0.920000016689301
+3347,Europe,Historical,Cars,EV,2016,1.20000004768372
+3351,Europe,Historical,Trucks,EV,2016,0.012000000104308
+3370,Europe,Historical,Trucks,EV,2017,0.009899999946356
+3374,Europe,Historical,Cars,EV,2017,1.70000004768372
+3375,Europe,Historical,Buses,EV,2017,0.569999992847443
+3377,Europe,Historical,Vans,EV,2017,0.740000009536743
+3434,Europe,Historical,Vans,EV,2018,1.10000002384186
+3436,Europe,Historical,Buses,EV,2018,1.10000002384186
+3437,Europe,Historical,Cars,EV,2018,2.29999995231628
+3441,Europe,Historical,Trucks,EV,2018,0.07599999755621
+3460,Europe,Historical,Trucks,EV,2019,0.159999996423721
+3464,Europe,Historical,Cars,EV,2019,3.29999995231628
+3465,Europe,Historical,Buses,EV,2019,2.79999995231628
+3467,Europe,Historical,Vans,EV,2019,1.29999995231628
+3551,Europe,Projection-STEPS,Buses,EV,2020,4.69999980926514
+3552,Europe,Projection-STEPS,Vans,EV,2020,2.09999990463257
+3554,Europe,Projection-STEPS,Cars,EV,2020,10.0
+3557,Europe,Projection-STEPS,Trucks,EV,2020,0.239999994635582
+3561,Europe,Historical,Vans,EV,2020,2.09999990463257
+3563,Europe,Historical,Buses,EV,2020,4.69999980926514
+3564,Europe,Historical,Cars,EV,2020,10.0
+3565,Europe,Projection-APS,Buses,EV,2020,4.69999980926514
+3568,Europe,Projection-APS,Vans,EV,2020,2.09999990463257
+3570,Europe,Projection-APS,Cars,EV,2020,10.0
+3571,Europe,Projection-APS,Trucks,EV,2020,0.239999994635582
+3576,Europe,Historical,Trucks,EV,2020,0.239999994635582
+3686,Europe,Historical,Trucks,EV,2021,0.349999994039536
+3691,Europe,Projection-APS,Trucks,EV,2021,0.349999994039536
+3692,Europe,Projection-APS,Cars,EV,2021,17.0
+3694,Europe,Projection-APS,Vans,EV,2021,2.90000009536743
+3697,Europe,Projection-APS,Buses,EV,2021,6.69999980926514
+3698,Europe,Historical,Cars,EV,2021,17.0
+3699,Europe,Historical,Buses,EV,2021,6.69999980926514
+3701,Europe,Historical,Vans,EV,2021,2.90000009536743
+3705,Europe,Projection-STEPS,Trucks,EV,2021,0.349999994039536
+3708,Europe,Projection-STEPS,Cars,EV,2021,17.0
+3710,Europe,Projection-STEPS,Vans,EV,2021,2.90000009536743
+3711,Europe,Projection-STEPS,Buses,EV,2021,6.69999980926514
+3824,Europe,Projection-STEPS,Buses,EV,2022,9.19999980926514
+3825,Europe,Projection-STEPS,Vans,EV,2022,5.19999980926514
+3827,Europe,Projection-STEPS,Cars,EV,2022,20.0
+3830,Europe,Projection-STEPS,Trucks,EV,2022,0.709999978542328
+3833,Europe,Historical,Vans,EV,2022,5.19999980926514
+3835,Europe,Historical,Buses,EV,2022,9.19999980926514
+3836,Europe,Historical,Cars,EV,2022,20.0
+3837,Europe,Projection-APS,Buses,EV,2022,9.19999980926514
+3840,Europe,Projection-APS,Vans,EV,2022,5.19999980926514
+3842,Europe,Projection-APS,Cars,EV,2022,20.0
+3843,Europe,Projection-APS,Trucks,EV,2022,0.709999978542328
+3848,Europe,Historical,Trucks,EV,2022,0.709999978542328
+3961,Europe,Historical,Trucks,EV,2023,1.60000002384186
+3966,Europe,Projection-APS,Trucks,EV,2023,1.60000002384186
+3967,Europe,Projection-APS,Cars,EV,2023,21.0
+3969,Europe,Projection-APS,Vans,EV,2023,7.19999980926514
+3972,Europe,Projection-APS,Buses,EV,2023,14.0
+3973,Europe,Historical,Cars,EV,2023,21.0
+3974,Europe,Historical,Buses,EV,2023,14.0
+3976,Europe,Historical,Vans,EV,2023,7.19999980926514
+3978,Europe,Projection-STEPS,Trucks,EV,2023,1.60000002384186
+3981,Europe,Projection-STEPS,Cars,EV,2023,21.0
+3983,Europe,Projection-STEPS,Vans,EV,2023,7.19999980926514
+3984,Europe,Projection-STEPS,Buses,EV,2023,14.0
+4047,Europe,Projection-STEPS,Trucks,EV,2025,5.0
+4048,Europe,Projection-STEPS,Buses,EV,2025,23.0
+4049,Europe,Projection-STEPS,Vans,EV,2025,14.0
+4051,Europe,Projection-STEPS,Cars,EV,2025,31.0
+4072,Europe,Projection-APS,Buses,EV,2025,27.0
+4075,Europe,Projection-APS,Trucks,EV,2025,6.0
+4077,Europe,Projection-APS,Vans,EV,2025,15.0
+4079,Europe,Projection-APS,Cars,EV,2025,31.0
+4180,Europe,Projection-APS,Cars,EV,2030,62.0
+4182,Europe,Projection-APS,Vans,EV,2030,52.0
+4184,Europe,Projection-APS,Trucks,EV,2030,26.0
+4187,Europe,Projection-APS,Buses,EV,2030,57.0
+4216,Europe,Projection-STEPS,Cars,EV,2030,60.0
+4218,Europe,Projection-STEPS,Vans,EV,2030,48.0
+4219,Europe,Projection-STEPS,Buses,EV,2030,43.0
+4220,Europe,Projection-STEPS,Trucks,EV,2030,22.0
+4231,Europe,Projection-STEPS,Trucks,EV,2035,33.0
+4232,Europe,Projection-STEPS,Buses,EV,2035,65.0
+4233,Europe,Projection-STEPS,Vans,EV,2035,85.0
+4235,Europe,Projection-STEPS,Cars,EV,2035,87.0
+4264,Europe,Projection-APS,Buses,EV,2035,78.0
+4267,Europe,Projection-APS,Trucks,EV,2035,43.0
+4269,Europe,Projection-APS,Vans,EV,2035,93.0
+4271,Europe,Projection-APS,Cars,EV,2035,92.0
+4319,Finland,Historical,Cars,EV,2011,0.025000000372529
+4326,Finland,Historical,Cars,EV,2012,0.170000001788139
+4329,Finland,Historical,Cars,EV,2013,0.209999993443489
+4342,Finland,Historical,Cars,EV,2014,0.409999996423721
+4345,Finland,Historical,Cars,EV,2015,0.600000023841858
+4360,Finland,Historical,Cars,EV,2016,1.20000004768372
+4364,Finland,Historical,Vans,EV,2017,0.319999992847443
+4366,Finland,Historical,Cars,EV,2017,2.59999990463257
+4368,Finland,Historical,Trucks,EV,2017,0.050000000745058
+4369,Finland,Historical,Buses,EV,2017,0.389999985694885
+4393,Finland,Historical,Buses,EV,2018,0.200000002980232
+4395,Finland,Historical,Cars,EV,2018,4.69999980926514
+4397,Finland,Historical,Vans,EV,2018,0.349999994039536
+4400,Finland,Historical,Vans,EV,2019,0.409999996423721
+4401,Finland,Historical,Cars,EV,2019,6.90000009536743
+4403,Finland,Historical,Trucks,EV,2019,0.043000001460314
+4406,Finland,Historical,Buses,EV,2019,6.80000019073486
+4437,Finland,Historical,Buses,EV,2020,8.80000019073486
+4440,Finland,Historical,Trucks,EV,2020,0.129999995231628
+4442,Finland,Historical,Cars,EV,2020,18.0
+4443,Finland,Historical,Vans,EV,2020,1.60000002384186
+4446,Finland,Historical,Vans,EV,2021,2.79999995231628
+4447,Finland,Historical,Cars,EV,2021,31.0
+4449,Finland,Historical,Trucks,EV,2021,0.07599999755621
+4452,Finland,Historical,Buses,EV,2021,49.0
+4486,Finland,Historical,Buses,EV,2022,66.0
+4489,Finland,Historical,Trucks,EV,2022,0.569999992847443
+4491,Finland,Historical,Cars,EV,2022,38.0
+4492,Finland,Historical,Vans,EV,2022,6.40000009536743
+4495,Finland,Historical,Vans,EV,2023,15.0
+4496,Finland,Historical,Cars,EV,2023,54.0
+4498,Finland,Historical,Trucks,EV,2023,1.89999997615814
+4501,Finland,Historical,Buses,EV,2023,43.0
+4526,France,Historical,Buses,EV,2010,0.28999999165535
+4528,France,Historical,Vans,EV,2010,0.189999997615814
+4530,France,Historical,Cars,EV,2010,0.012000000104308
+4535,France,Historical,Trucks,EV,2010,0.061999998986721
+4536,France,Historical,Trucks,EV,2011,0.017000000923872
+4539,France,Historical,Cars,EV,2011,0.119999997317791
+4543,France,Historical,Vans,EV,2011,0.389999985694885
+4545,France,Historical,Buses,EV,2011,0.330000013113022
+4565,France,Historical,Buses,EV,2012,0.430000007152557
+4567,France,Historical,Vans,EV,2012,0.959999978542328
+4573,France,Historical,Cars,EV,2012,0.330000013113022
+4576,France,Historical,Trucks,EV,2012,0.014000000432134
+4577,France,Historical,Trucks,EV,2013,0.016000000759959
+4580,France,Historical,Cars,EV,2013,0.529999971389771
+4587,France,Historical,Vans,EV,2013,1.5
+4589,France,Historical,Buses,EV,2013,0.370000004768372
+4614,France,Historical,Buses,EV,2014,0.699999988079071
+4616,France,Historical,Vans,EV,2014,1.29999995231628
+4623,France,Historical,Cars,EV,2014,0.689999997615814
+4626,France,Historical,Trucks,EV,2014,0.032999999821186
+4627,France,Historical,Trucks,EV,2015,0.002400000113994
+4630,France,Historical,Cars,EV,2015,1.20000004768372
+4637,France,Historical,Vans,EV,2015,1.60000002384186
+4639,France,Historical,Buses,EV,2015,0.699999988079071
+4665,France,Historical,Buses,EV,2016,1.20000004768372
+4667,France,Historical,Vans,EV,2016,1.89999997615814
+4676,France,Historical,Cars,EV,2016,1.39999997615814
+4679,France,Historical,Trucks,EV,2016,0.013000000268221
+4680,France,Historical,Trucks,EV,2017,0.032000001519919
+4683,France,Historical,Cars,EV,2017,1.70000004768372
+4691,France,Historical,Vans,EV,2017,1.89999997615814
+4693,France,Historical,Buses,EV,2017,0.270000010728836
+4720,France,Historical,Buses,EV,2018,1.60000002384186
+4722,France,Historical,Vans,EV,2018,2.40000009536743
+4730,France,Historical,Cars,EV,2018,2.0
+4733,France,Historical,Trucks,EV,2018,0.048000000417233
+4734,France,Historical,Trucks,EV,2019,0.037999998778105
+4737,France,Historical,Cars,EV,2019,2.70000004768372
+4744,France,Historical,Vans,EV,2019,2.29999995231628
+4746,France,Historical,Buses,EV,2019,4.19999980926514
+4774,France,Historical,Buses,EV,2020,2.90000009536743
+4776,France,Historical,Vans,EV,2020,3.0
+4783,France,Historical,Cars,EV,2020,11.0
+4786,France,Historical,Trucks,EV,2020,0.035000000149012
+4787,France,Historical,Trucks,EV,2021,0.086000002920628
+4790,France,Historical,Cars,EV,2021,17.0
+4800,France,Historical,Vans,EV,2021,3.0
+4802,France,Historical,Buses,EV,2021,9.19999980926514
+4831,France,Historical,Buses,EV,2022,14.0
+4833,France,Historical,Vans,EV,2022,4.90000009536743
+4841,France,Historical,Cars,EV,2022,20.0
+4844,France,Historical,Trucks,EV,2022,0.850000023841858
+4845,France,Historical,Trucks,EV,2023,6.19999980926514
+4848,France,Historical,Cars,EV,2023,25.0
+4856,France,Historical,Vans,EV,2023,7.59999990463257
+4858,France,Historical,Buses,EV,2023,13.0
+4881,Germany,Historical,Vans,EV,2010,0.086999997496605
+4886,Germany,Historical,Cars,EV,2010,0.004900000058115
+4889,Germany,Historical,Cars,EV,2011,0.052000001072884
+4895,Germany,Historical,Vans,EV,2011,0.119999997317791
+4908,Germany,Historical,Vans,EV,2012,0.430000007152557
+4914,Germany,Historical,Cars,EV,2012,0.109999999403954
+4917,Germany,Historical,Cars,EV,2013,0.230000004172325
+4919,Germany,Historical,Vans,EV,2013,0.28999999165535
+4944,Germany,Historical,Vans,EV,2014,0.319999992847443
+4946,Germany,Historical,Cars,EV,2014,0.449999988079071
+4951,Germany,Historical,Cars,EV,2015,0.730000019073486
+4953,Germany,Historical,Vans,EV,2015,0.439999997615814
+4978,Germany,Historical,Buses,EV,2016,3.40000009536743
+4982,Germany,Historical,Vans,EV,2016,0.97000002861023
+4984,Germany,Historical,Cars,EV,2016,0.740000009536743
+4989,Germany,Historical,Cars,EV,2017,1.60000002384186
+4991,Germany,Historical,Vans,EV,2017,1.70000004768372
+4996,Germany,Historical,Buses,EV,2017,0.430000007152557
+5018,Germany,Historical,Buses,EV,2018,0.639999985694885
+5023,Germany,Historical,Vans,EV,2018,2.20000004768372
+5025,Germany,Historical,Cars,EV,2018,2.0
+5028,Germany,Historical,Trucks,EV,2018,0.300000011920929
+5034,Germany,Historical,Trucks,EV,2019,0.629999995231628
+5036,Germany,Historical,Cars,EV,2019,3.0
+5038,Germany,Historical,Vans,EV,2019,2.29999995231628
+5044,Germany,Historical,Buses,EV,2019,3.09999990463257
+5068,Germany,Historical,Buses,EV,2020,6.09999990463257
+5074,Germany,Historical,Vans,EV,2020,3.5
+5076,Germany,Historical,Cars,EV,2020,14.0
+5078,Germany,Historical,Trucks,EV,2020,1.10000002384186
+5084,Germany,Historical,Trucks,EV,2021,1.29999995231628
+5086,Germany,Historical,Cars,EV,2021,26.0
+5089,Germany,Historical,Vans,EV,2021,5.09999990463257
+5095,Germany,Historical,Buses,EV,2021,9.5
+5125,Germany,Historical,Buses,EV,2022,13.0
+5131,Germany,Historical,Vans,EV,2022,8.30000019073486
+5134,Germany,Historical,Cars,EV,2022,31.0
+5136,Germany,Historical,Trucks,EV,2022,1.5
+5147,Germany,Historical,Trucks,EV,2023,2.29999995231628
+5149,Germany,Historical,Cars,EV,2023,24.0
+5152,Germany,Historical,Vans,EV,2023,9.69999980926514
+5158,Germany,Historical,Buses,EV,2023,15.0
+5176,Greece,Historical,Cars,EV,2013,0.005100000184029
+5181,Greece,Historical,Cars,EV,2014,0.054999999701977
+5189,Greece,Historical,Cars,EV,2015,0.078000001609325
+5196,Greece,Historical,Cars,EV,2016,0.119999997317791
+5205,Greece,Historical,Cars,EV,2017,0.219999998807907
+5212,Greece,Historical,Cars,EV,2018,0.28999999165535
+5221,Greece,Historical,Cars,EV,2019,0.419999986886978
+5228,Greece,Historical,Cars,EV,2020,2.59999990463257
+5237,Greece,Historical,Cars,EV,2021,6.90000009536743
+5244,Greece,Historical,Cars,EV,2022,7.90000009536743
+5252,Greece,Historical,Cars,EV,2023,14.0
+5257,Hungary,Historical,Cars,EV,2015,0.170000001788139
+5262,Hungary,Historical,Cars,EV,2016,0.360000014305115
+5263,Hungary,Historical,Cars,EV,2017,1.0
+5268,Hungary,Historical,Cars,EV,2018,1.5
+5269,Hungary,Historical,Cars,EV,2019,1.89999997615814
+5274,Hungary,Historical,Cars,EV,2020,4.69999980926514
+5275,Hungary,Historical,Cars,EV,2021,7.0
+5280,Hungary,Historical,Cars,EV,2022,8.60000038146973
+5281,Hungary,Historical,Cars,EV,2023,11.0
+5296,Iceland,Historical,Cars,EV,2012,0.330000013113022
+5299,Iceland,Historical,Cars,EV,2013,1.39999997615814
+5310,Iceland,Historical,Cars,EV,2014,2.40000009536743
+5316,Iceland,Historical,Cars,EV,2015,3.90000009536743
+5327,Iceland,Historical,Cars,EV,2016,6.30000019073486
+5334,Iceland,Historical,Cars,EV,2017,14.0
+5346,Iceland,Historical,Cars,EV,2018,20.0
+5353,Iceland,Historical,Cars,EV,2019,26.0
+5366,Iceland,Historical,Cars,EV,2020,52.0
+5373,Iceland,Historical,Cars,EV,2021,70.0
+5385,Iceland,Historical,Cars,EV,2022,69.0
+5392,Iceland,Historical,Cars,EV,2023,71.0
+5401,India,Historical,Cars,EV,2010,0.020999999716878
+5408,India,Historical,Cars,EV,2011,0.056000001728535
+5413,India,Historical,Cars,EV,2012,0.00719999987632
+5420,India,Historical,Cars,EV,2013,0.016000000759959
+5425,India,Historical,Cars,EV,2014,0.037999998778105
+5434,India,Historical,Cars,EV,2015,0.017000000923872
+5439,India,Historical,Buses,EV,2015,0.109999999403954
+5442,India,Historical,Buses,EV,2016,0.027000000700355
+5443,India,Historical,Vans,EV,2016,0.056000001728535
+5449,India,Historical,Cars,EV,2016,0.026000000536442
+5471,India,Historical,Cars,EV,2017,0.030999999493361
+5477,India,Historical,Vans,EV,2017,0.310000002384186
+5478,India,Historical,Buses,EV,2017,0.023000000044704
+5481,India,Historical,Buses,EV,2018,0.280000001192093
+5482,India,Historical,Vans,EV,2018,0.28999999165535
+5488,India,Historical,Cars,EV,2018,0.029999999329448
+5512,India,Historical,Cars,EV,2019,0.024000000208616
+5520,India,Historical,Vans,EV,2019,0.159999996423721
+5521,India,Historical,Buses,EV,2019,0.689999997615814
+5524,India,Historical,Buses,EV,2020,6.0
+5525,India,Historical,Vans,EV,2020,0.230000004172325
+5542,India,Historical,Cars,EV,2020,0.119999997317791
+5570,India,Projection-STEPS,Vans,EV,2020,0.230000004172325
+5572,India,Projection-STEPS,Cars,EV,2020,0.119999997317791
+5574,India,Projection-STEPS,Buses,EV,2020,6.0
+5589,India,Projection-APS,Buses,EV,2020,6.0
+5591,India,Projection-APS,Vans,EV,2020,0.230000004172325
+5594,India,Projection-APS,Cars,EV,2020,0.119999997317791
+5595,India,Projection-APS,Cars,EV,2021,0.349999994039536
+5598,India,Projection-APS,Vans,EV,2021,0.419999986886978
+5600,India,Projection-APS,Buses,EV,2021,7.5
+5618,India,Projection-STEPS,Buses,EV,2021,7.5
+5620,India,Projection-STEPS,Cars,EV,2021,0.349999994039536
+5622,India,Projection-STEPS,Vans,EV,2021,0.419999986886978
+5648,India,Historical,Cars,EV,2021,0.349999994039536
+5667,India,Historical,Vans,EV,2021,0.419999986886978
+5668,India,Historical,Buses,EV,2021,7.5
+5671,India,Historical,Buses,EV,2022,6.19999980926514
+5672,India,Historical,Vans,EV,2022,0.097999997437
+5691,India,Historical,Cars,EV,2022,1.20000004768372
+5719,India,Projection-STEPS,Vans,EV,2022,0.097999997437
+5721,India,Projection-STEPS,Cars,EV,2022,1.20000004768372
+5723,India,Projection-STEPS,Buses,EV,2022,6.19999980926514
+5742,India,Projection-APS,Buses,EV,2022,6.19999980926514
+5744,India,Projection-APS,Vans,EV,2022,0.097999997437
+5747,India,Projection-APS,Cars,EV,2022,1.20000004768372
+5748,India,Projection-APS,Cars,EV,2023,2.0
+5751,India,Projection-APS,Vans,EV,2023,0.061999998986721
+5753,India,Projection-APS,Buses,EV,2023,6.80000019073486
+5771,India,Projection-STEPS,Buses,EV,2023,6.80000019073486
+5773,India,Projection-STEPS,Cars,EV,2023,2.0
+5775,India,Projection-STEPS,Vans,EV,2023,0.061999998986721
+5809,India,Historical,Cars,EV,2023,2.0
+5829,India,Historical,Vans,EV,2023,0.061999998986721
+5830,India,Historical,Buses,EV,2023,6.80000019073486
+5889,India,Projection-STEPS,Vans,EV,2025,3.0
+5890,India,Projection-STEPS,Trucks,EV,2025,0.180000007152557
+5892,India,Projection-STEPS,Cars,EV,2025,7.0
+5895,India,Projection-STEPS,Buses,EV,2025,10.0
+5911,India,Projection-APS,Buses,EV,2025,13.0
+5913,India,Projection-APS,Trucks,EV,2025,0.610000014305115
+5915,India,Projection-APS,Vans,EV,2025,5.0
+5918,India,Projection-APS,Cars,EV,2025,9.0
+5923,India,Projection-APS,Cars,EV,2030,32.0
+5926,India,Projection-APS,Vans,EV,2030,31.0
+5928,India,Projection-APS,Trucks,EV,2030,2.0
+5930,India,Projection-APS,Buses,EV,2030,34.0
+5934,India,Projection-STEPS,Buses,EV,2030,34.0
+5937,India,Projection-STEPS,Cars,EV,2030,18.0
+5939,India,Projection-STEPS,Trucks,EV,2030,2.0
+5940,India,Projection-STEPS,Vans,EV,2030,9.0
+6081,India,Projection-STEPS,Vans,EV,2035,22.0
+6082,India,Projection-STEPS,Trucks,EV,2035,3.0
+6084,India,Projection-STEPS,Cars,EV,2035,25.0
+6087,India,Projection-STEPS,Buses,EV,2035,60.0
+6091,India,Projection-APS,Buses,EV,2035,60.0
+6093,India,Projection-APS,Trucks,EV,2035,6.0
+6095,India,Projection-APS,Vans,EV,2035,80.0
+6098,India,Projection-APS,Cars,EV,2035,59.0
+6109,Ireland,Historical,Cars,EV,2015,0.469999998807907
+6114,Ireland,Historical,Cars,EV,2016,0.469999998807907
+6115,Ireland,Historical,Cars,EV,2017,0.72000002861023
+6120,Ireland,Historical,Cars,EV,2018,1.60000002384186
+6121,Ireland,Historical,Cars,EV,2019,4.09999990463257
+6126,Ireland,Historical,Cars,EV,2020,7.40000009536743
+6127,Ireland,Historical,Cars,EV,2021,16.0
+6132,Ireland,Historical,Cars,EV,2022,22.0
+6133,Ireland,Historical,Cars,EV,2023,27.0
+6140,Israel,Historical,Cars,EV,2011,0.001300000003539
+6147,Israel,Historical,Cars,EV,2012,0.270000010728836
+6150,Israel,Historical,Cars,EV,2013,0.209999993443489
+6152,Israel,Historical,Buses,EV,2013,3.19999999192078e-05
+6161,Israel,Historical,Cars,EV,2014,0.021999999880791
+6164,Israel,Historical,Cars,EV,2015,0.024000000208616
+6177,Israel,Historical,Cars,EV,2016,0.021999999880791
+6179,Israel,Historical,Buses,EV,2016,0.109999999403954
+6186,Israel,Historical,Buses,EV,2017,0.949999988079071
+6188,Israel,Historical,Cars,EV,2017,0.519999980926514
+6202,Israel,Historical,Cars,EV,2018,1.20000004768372
+6203,Israel,Historical,Buses,EV,2018,0.610000014305115
+6210,Israel,Historical,Buses,EV,2019,0.370000004768372
+6211,Israel,Historical,Cars,EV,2019,1.60000002384186
+6227,Israel,Historical,Cars,EV,2020,2.59999990463257
+6228,Israel,Historical,Buses,EV,2020,0.870000004768372
+6230,Israel,Historical,Vans,EV,2020,0.360000014305115
+6236,Israel,Historical,Vans,EV,2021,0.490000009536743
+6238,Israel,Historical,Buses,EV,2021,0.779999971389771
+6239,Israel,Historical,Cars,EV,2021,6.90000009536743
+6261,Israel,Historical,Cars,EV,2022,12.0
+6262,Israel,Historical,Buses,EV,2022,10.0
+6264,Israel,Historical,Vans,EV,2022,0.689999997615814
+6269,Israel,Historical,Vans,EV,2023,0.600000023841858
+6271,Israel,Historical,Buses,EV,2023,11.0
+6272,Israel,Historical,Cars,EV,2023,19.0
+6288,Italy,Historical,Vans,EV,2010,0.119999997317791
+6290,Italy,Historical,Cars,EV,2010,0.002000000094995
+6293,Italy,Historical,Cars,EV,2011,0.00650000013411
+6295,Italy,Historical,Vans,EV,2011,0.0489999987185
+6305,Italy,Historical,Vans,EV,2012,0.310000002384186
+6307,Italy,Historical,Cars,EV,2012,0.032999999821186
+6314,Italy,Historical,Cars,EV,2013,0.079999998211861
+6316,Italy,Historical,Vans,EV,2013,0.200000002980232
+6332,Italy,Historical,Vans,EV,2014,0.25
+6334,Italy,Historical,Cars,EV,2014,0.100000001490116
+6341,Italy,Historical,Cars,EV,2015,0.140000000596046
+6343,Italy,Historical,Vans,EV,2015,0.349999994039536
+6362,Italy,Historical,Vans,EV,2016,0.430000007152557
+6365,Italy,Historical,Cars,EV,2016,0.150000005960464
+6367,Italy,Historical,Buses,EV,2016,1.39999997615814
+6374,Italy,Historical,Buses,EV,2017,0.910000026226044
+6376,Italy,Historical,Cars,EV,2017,0.25
+6379,Italy,Historical,Vans,EV,2017,0.280000001192093
+6400,Italy,Historical,Vans,EV,2018,0.389999985694885
+6403,Italy,Historical,Cars,EV,2018,0.509999990463257
+6405,Italy,Historical,Buses,EV,2018,1.39999997615814
+6412,Italy,Historical,Buses,EV,2019,1.60000002384186
+6414,Italy,Historical,Cars,EV,2019,0.899999976158142
+6417,Italy,Historical,Vans,EV,2019,0.610000014305115
+6441,Italy,Historical,Vans,EV,2020,0.879999995231628
+6444,Italy,Historical,Cars,EV,2020,4.30000019073486
+6446,Italy,Historical,Buses,EV,2020,3.09999990463257
+6453,Italy,Historical,Buses,EV,2021,5.19999980926514
+6455,Italy,Historical,Cars,EV,2021,9.5
+6458,Italy,Historical,Vans,EV,2021,1.89999997615814
+6483,Italy,Historical,Vans,EV,2022,3.0
+6486,Italy,Historical,Cars,EV,2022,8.60000038146973
+6488,Italy,Historical,Buses,EV,2022,4.09999990463257
+6495,Italy,Historical,Buses,EV,2023,8.0
+6496,Italy,Historical,Cars,EV,2023,9.19999980926514
+6499,Italy,Historical,Vans,EV,2023,4.19999980926514
+6514,Japan,Historical,Cars,EV,2010,0.052999999374151
+6527,Japan,Historical,Cars,EV,2011,0.28999999165535
+6528,Japan,Historical,Vans,EV,2011,0.150000005960464
+6530,Japan,Historical,Buses,EV,2011,0.018999999389052
+6539,Japan,Historical,Buses,EV,2012,0.032999999821186
+6541,Japan,Historical,Vans,EV,2012,0.379999995231628
+6542,Japan,Historical,Cars,EV,2012,0.449999988079071
+6559,Japan,Historical,Cars,EV,2013,0.540000021457672
+6560,Japan,Historical,Vans,EV,2013,0.310000002384186
+6562,Japan,Historical,Buses,EV,2013,0.061999998986721
+6571,Japan,Historical,Buses,EV,2014,0.050000000745058
+6573,Japan,Historical,Vans,EV,2014,0.150000005960464
+6574,Japan,Historical,Cars,EV,2014,0.610000014305115
+6594,Japan,Historical,Cars,EV,2015,0.519999980926514
+6595,Japan,Historical,Vans,EV,2015,0.129999995231628
+6597,Japan,Historical,Buses,EV,2015,0.014999999664724
+6606,Japan,Historical,Buses,EV,2016,0.052000001072884
+6608,Japan,Historical,Vans,EV,2016,0.050999999046326
+6609,Japan,Historical,Cars,EV,2016,0.509999990463257
+6630,Japan,Historical,Cars,EV,2017,1.20000004768372
+6631,Japan,Historical,Vans,EV,2017,0.050000000745058
+6633,Japan,Historical,Buses,EV,2017,0.064000003039837
+6641,Japan,Historical,Trucks,EV,2018,0.002799999900162
+6645,Japan,Historical,Buses,EV,2018,0.072999998927116
+6647,Japan,Historical,Vans,EV,2018,0.03999999910593
+6648,Japan,Historical,Cars,EV,2018,1.10000002384186
+6671,Japan,Historical,Cars,EV,2019,0.860000014305115
+6672,Japan,Historical,Vans,EV,2019,0.075000002980232
+6674,Japan,Historical,Buses,EV,2019,0.059000000357628
+6678,Japan,Historical,Trucks,EV,2019,0.027000000700355
+6687,Japan,Historical,Trucks,EV,2020,0.021999999880791
+6691,Japan,Historical,Buses,EV,2020,0.109999999403954
+6693,Japan,Historical,Vans,EV,2020,0.239999994635582
+6694,Japan,Historical,Cars,EV,2020,0.75
+6717,Japan,Historical,Cars,EV,2021,1.20000004768372
+6718,Japan,Historical,Vans,EV,2021,0.150000005960464
+6720,Japan,Historical,Buses,EV,2021,0.46000000834465
+6724,Japan,Historical,Trucks,EV,2021,0.001900000032038
+6732,Japan,Historical,Trucks,EV,2022,0.008200000040233
+6736,Japan,Historical,Buses,EV,2022,0.360000014305115
+6738,Japan,Historical,Vans,EV,2022,0.25
+6739,Japan,Historical,Cars,EV,2022,2.79999995231628
+6762,Japan,Historical,Cars,EV,2023,3.59999990463257
+6763,Japan,Historical,Vans,EV,2023,0.430000007152557
+6765,Japan,Historical,Buses,EV,2023,1.10000002384186
+6769,Japan,Historical,Trucks,EV,2023,0.035000000149012
+6778,Korea,Historical,Buses,EV,2010,0.007000000216067
+6781,Korea,Historical,Cars,EV,2010,0.004999999888241
+6782,Korea,Historical,Cars,EV,2011,0.023000000044704
+6785,Korea,Historical,Buses,EV,2011,0.005400000140071
+6794,Korea,Historical,Buses,EV,2012,0.00289999996312
+6797,Korea,Historical,Cars,EV,2012,0.041000001132488
+6798,Korea,Historical,Cars,EV,2013,0.0489999987185
+6801,Korea,Historical,Buses,EV,2013,0.008100000210106
+6810,Korea,Historical,Buses,EV,2014,0.003899999894202
+6813,Korea,Historical,Cars,EV,2014,0.093000002205372
+6814,Korea,Historical,Cars,EV,2015,0.219999998807907
+6817,Korea,Historical,Buses,EV,2015,0.002700000070035
+6818,Korea,Historical,Vans,EV,2015,0.010999999940395
+6841,Korea,Historical,Vans,EV,2016,0.009399999864399
+6842,Korea,Historical,Buses,EV,2016,0.041999999433756
+6845,Korea,Historical,Cars,EV,2016,0.330000013113022
+6850,Korea,Historical,Cars,EV,2017,0.949999988079071
+6874,Korea,Historical,Vans,EV,2018,0.140000000596046
+6876,Korea,Historical,Buses,EV,2018,0.035000000149012
+6878,Korea,Historical,Cars,EV,2018,3.79999995231628
+6883,Korea,Historical,Cars,EV,2019,2.29999995231628
+6885,Korea,Historical,Buses,EV,2019,0.086000002920628
+6887,Korea,Historical,Vans,EV,2019,0.730000019073486
+6915,Korea,Historical,Vans,EV,2020,6.0
+6917,Korea,Historical,Buses,EV,2020,0.479999989271164
+6919,Korea,Historical,Cars,EV,2020,2.40000009536743
+6924,Korea,Historical,Cars,EV,2021,5.80000019073486
+6926,Korea,Historical,Buses,EV,2021,0.209999993443489
+6928,Korea,Historical,Vans,EV,2021,12.0
+6956,Korea,Historical,Vans,EV,2022,15.0
+6958,Korea,Historical,Buses,EV,2022,0.25
+6960,Korea,Historical,Cars,EV,2022,8.5
+6965,Korea,Historical,Cars,EV,2023,7.90000009536743
+6967,Korea,Historical,Buses,EV,2023,0.97000002861023
+6969,Korea,Historical,Vans,EV,2023,18.0
+6983,Latvia,Historical,Cars,EV,2015,0.189999997615814
+6988,Latvia,Historical,Cars,EV,2016,0.239999994635582
+6989,Latvia,Historical,Cars,EV,2017,0.239999994635582
+6994,Latvia,Historical,Cars,EV,2018,0.529999971389771
+6995,Latvia,Historical,Cars,EV,2019,0.540000021457672
+7000,Latvia,Historical,Cars,EV,2020,2.59999990463257
+7001,Latvia,Historical,Cars,EV,2021,3.90000009536743
+7006,Latvia,Historical,Cars,EV,2022,8.10000038146973
+7007,Latvia,Historical,Cars,EV,2023,11.0
+7011,Lithuania,Historical,Cars,EV,2015,0.219999998807907
+7012,Lithuania,Historical,Cars,EV,2016,0.319999992847443
+7015,Lithuania,Historical,Cars,EV,2017,0.200000002980232
+7018,Lithuania,Historical,Cars,EV,2019,0.349999994039536
+7019,Lithuania,Historical,Cars,EV,2020,1.10000002384186
+7023,Lithuania,Historical,Cars,EV,2021,5.0
+7024,Lithuania,Historical,Cars,EV,2022,7.90000009536743
+7028,Lithuania,Historical,Cars,EV,2023,7.5
+7029,Luxembourg,Historical,Cars,EV,2019,3.5
+7034,Luxembourg,Historical,Cars,EV,2020,11.0
+7035,Luxembourg,Historical,Cars,EV,2021,20.0
+7040,Luxembourg,Historical,Cars,EV,2022,24.0
+7041,Luxembourg,Historical,Cars,EV,2023,32.0
+7046,Mexico,Historical,Cars,EV,2011,0.000260000000708
+7049,Mexico,Historical,Cars,EV,2012,0.007699999958277
+7054,Mexico,Historical,Cars,EV,2013,0.00089000002481
+7057,Mexico,Historical,Cars,EV,2014,0.003800000064075
+7065,Mexico,Historical,Cars,EV,2015,0.00800000037998
+7068,Mexico,Historical,Cars,EV,2016,0.052999999374151
+7081,Mexico,Historical,Cars,EV,2017,0.086000002920628
+7084,Mexico,Historical,Cars,EV,2018,0.140000000596046
+7097,Mexico,Historical,Cars,EV,2019,0.140000000596046
+7100,Mexico,Historical,Cars,EV,2020,0.449999988079071
+7113,Mexico,Historical,Cars,EV,2021,0.72000002861023
+7116,Mexico,Historical,Cars,EV,2022,0.889999985694885
+7129,Mexico,Historical,Cars,EV,2023,1.29999995231628
+7131,Netherlands,Historical,Vans,EV,2010,0.079000003635883
+7134,Netherlands,Historical,Cars,EV,2010,0.025000000372529
+7156,Netherlands,Historical,Cars,EV,2011,0.159999996423721
+7159,Netherlands,Historical,Vans,EV,2011,0.119999997317791
+7160,Netherlands,Historical,Vans,EV,2012,0.589999973773956
+7163,Netherlands,Historical,Cars,EV,2012,1.0
+7189,Netherlands,Historical,Cars,EV,2013,5.5
+7191,Netherlands,Historical,Vans,EV,2013,0.349999994039536
+7193,Netherlands,Historical,Buses,EV,2013,0.839999973773956
+7194,Netherlands,Historical,Buses,EV,2014,1.0
+7196,Netherlands,Historical,Vans,EV,2014,1.10000002384186
+7198,Netherlands,Historical,Cars,EV,2014,3.90000009536743
+7235,Netherlands,Historical,Trucks,EV,2015,0.028000000864267
+7237,Netherlands,Historical,Cars,EV,2015,9.5
+7239,Netherlands,Historical,Vans,EV,2015,0.469999998807907
+7241,Netherlands,Historical,Buses,EV,2015,3.70000004768372
+7242,Netherlands,Historical,Buses,EV,2016,9.80000019073486
+7244,Netherlands,Historical,Vans,EV,2016,0.430000007152557
+7246,Netherlands,Historical,Cars,EV,2016,5.80000019073486
+7248,Netherlands,Historical,Trucks,EV,2016,0.159999996423721
+7295,Netherlands,Historical,Trucks,EV,2017,0.109999999403954
+7297,Netherlands,Historical,Cars,EV,2017,1.79999995231628
+7299,Netherlands,Historical,Vans,EV,2017,0.740000009536743
+7301,Netherlands,Historical,Buses,EV,2017,14.0
+7302,Netherlands,Historical,Buses,EV,2018,17.0
+7304,Netherlands,Historical,Vans,EV,2018,1.10000002384186
+7306,Netherlands,Historical,Cars,EV,2018,4.69999980926514
+7308,Netherlands,Historical,Trucks,EV,2018,0.150000005960464
+7355,Netherlands,Historical,Trucks,EV,2019,0.639999985694885
+7357,Netherlands,Historical,Cars,EV,2019,11.0
+7359,Netherlands,Historical,Vans,EV,2019,1.5
+7361,Netherlands,Historical,Buses,EV,2019,38.0
+7362,Netherlands,Historical,Buses,EV,2020,65.0
+7364,Netherlands,Historical,Vans,EV,2020,2.40000009536743
+7366,Netherlands,Historical,Cars,EV,2020,16.0
+7368,Netherlands,Historical,Trucks,EV,2020,0.360000014305115
+7418,Netherlands,Historical,Trucks,EV,2021,0.509999990463257
+7420,Netherlands,Historical,Cars,EV,2021,19.0
+7422,Netherlands,Historical,Vans,EV,2021,3.90000009536743
+7424,Netherlands,Historical,Buses,EV,2021,37.0
+7425,Netherlands,Historical,Buses,EV,2022,25.0
+7427,Netherlands,Historical,Vans,EV,2022,6.59999990463257
+7429,Netherlands,Historical,Cars,EV,2022,26.0
+7431,Netherlands,Historical,Trucks,EV,2022,0.769999980926514
+7482,Netherlands,Historical,Trucks,EV,2023,5.90000009536743
+7484,Netherlands,Historical,Cars,EV,2023,35.0
+7486,Netherlands,Historical,Vans,EV,2023,12.0
+7488,Netherlands,Historical,Buses,EV,2023,31.0
+7492,New Zealand,Historical,Cars,EV,2010,0.006300000008196
+7497,New Zealand,Historical,Cars,EV,2011,0.009899999946356
+7498,New Zealand,Historical,Buses,EV,2011,0.239999994635582
+7511,New Zealand,Historical,Buses,EV,2012,0.119999997317791
+7512,New Zealand,Historical,Cars,EV,2012,0.017000000923872
+7517,New Zealand,Historical,Cars,EV,2013,0.018999999389052
+7528,New Zealand,Historical,Cars,EV,2014,0.140000000596046
+7533,New Zealand,Historical,Cars,EV,2015,0.300000011920929
+7544,New Zealand,Historical,Cars,EV,2016,0.779999971389771
+7549,New Zealand,Historical,Cars,EV,2017,1.39999997615814
+7550,New Zealand,Historical,Buses,EV,2017,0.03999999910593
+7566,New Zealand,Historical,Buses,EV,2018,0.430000007152557
+7567,New Zealand,Historical,Cars,EV,2018,2.09999990463257
+7572,New Zealand,Historical,Cars,EV,2019,2.29999995231628
+7573,New Zealand,Historical,Vans,EV,2019,0.119999997317791
+7574,New Zealand,Historical,Buses,EV,2019,0.529999971389771
+7603,New Zealand,Historical,Buses,EV,2020,0.899999976158142
+7604,New Zealand,Historical,Vans,EV,2020,0.140000000596046
+7605,New Zealand,Historical,Cars,EV,2020,1.60000002384186
+7610,New Zealand,Historical,Cars,EV,2021,3.40000009536743
+7611,New Zealand,Historical,Vans,EV,2021,0.300000011920929
+7612,New Zealand,Historical,Buses,EV,2021,2.90000009536743
+7648,New Zealand,Historical,Buses,EV,2022,6.0
+7649,New Zealand,Historical,Vans,EV,2022,1.10000002384186
+7650,New Zealand,Historical,Cars,EV,2022,11.0
+7655,New Zealand,Historical,Cars,EV,2023,14.0
+7656,New Zealand,Historical,Vans,EV,2023,1.5
+7657,New Zealand,Historical,Buses,EV,2023,5.19999980926514
+7679,Norway,Historical,Vans,EV,2010,0.003400000045076
+7680,Norway,Historical,Cars,EV,2010,0.280000001192093
+7683,Norway,Historical,Cars,EV,2011,1.39999997615814
+7684,Norway,Historical,Vans,EV,2011,0.119999997317791
+7702,Norway,Historical,Vans,EV,2012,0.189999997615814
+7703,Norway,Historical,Cars,EV,2012,3.09999990463257
+7706,Norway,Historical,Cars,EV,2013,5.80000019073486
+7707,Norway,Historical,Vans,EV,2013,1.20000004768372
+7727,Norway,Historical,Vans,EV,2014,2.0
+7728,Norway,Historical,Cars,EV,2014,15.0
+7733,Norway,Historical,Cars,EV,2015,22.0
+7734,Norway,Historical,Vans,EV,2015,2.29999995231628
+7747,Norway,Historical,Buses,EV,2016,0.930000007152557
+7758,Norway,Historical,Vans,EV,2016,1.89999997615814
+7760,Norway,Historical,Cars,EV,2016,29.0
+7767,Norway,Historical,Cars,EV,2017,39.0
+7768,Norway,Historical,Trucks,EV,2017,0.032000001519919
+7771,Norway,Historical,Vans,EV,2017,2.20000004768372
+7783,Norway,Historical,Buses,EV,2017,1.5
+7789,Norway,Historical,Buses,EV,2018,1.20000004768372
+7800,Norway,Historical,Vans,EV,2018,5.09999990463257
+7803,Norway,Historical,Cars,EV,2018,49.0
+7811,Norway,Historical,Cars,EV,2019,56.0
+7813,Norway,Historical,Trucks,EV,2019,0.041000001132488
+7815,Norway,Historical,Vans,EV,2019,5.59999990463257
+7826,Norway,Historical,Buses,EV,2019,7.0
+7833,Norway,Historical,Buses,EV,2020,21.0
+7849,Norway,Historical,Vans,EV,2020,8.5
+7851,Norway,Historical,Trucks,EV,2020,0.449999988079071
+7853,Norway,Historical,Cars,EV,2020,75.0
+7866,Norway,Historical,Cars,EV,2021,86.0
+7868,Norway,Historical,Trucks,EV,2021,1.79999995231628
+7870,Norway,Historical,Vans,EV,2021,5.59999990463257
+7885,Norway,Historical,Buses,EV,2021,9.0
+7892,Norway,Historical,Buses,EV,2022,48.0
+7907,Norway,Historical,Vans,EV,2022,24.0
+7909,Norway,Historical,Trucks,EV,2022,9.19999980926514
+7911,Norway,Historical,Cars,EV,2022,89.0
+7922,Norway,Historical,Cars,EV,2023,93.0
+7924,Norway,Historical,Trucks,EV,2023,11.0
+7926,Norway,Historical,Vans,EV,2023,29.0
+7928,Norway,Historical,Buses,EV,2023,53.0
+7947,Poland,Historical,Vans,EV,2010,0.007799999788404
+7948,Poland,Historical,Cars,EV,2010,0.004800000227988
+7949,Poland,Historical,Cars,EV,2011,0.014000000432134
+7950,Poland,Historical,Vans,EV,2011,0.006599999964237
+7956,Poland,Historical,Vans,EV,2012,0.041999999433756
+7957,Poland,Historical,Cars,EV,2012,0.017000000923872
+7958,Poland,Historical,Cars,EV,2013,0.013000000268221
+7959,Poland,Historical,Vans,EV,2013,0.025000000372529
+7966,Poland,Historical,Vans,EV,2014,0.01799999922514
+7967,Poland,Historical,Cars,EV,2014,0.061999998986721
+7972,Poland,Historical,Cars,EV,2015,0.061000000685454
+7974,Poland,Historical,Vans,EV,2015,0.028000000864267
+7992,Poland,Historical,Vans,EV,2016,0.027000000700355
+7994,Poland,Historical,Cars,EV,2016,0.119999997317791
+7999,Poland,Historical,Cars,EV,2017,0.219999998807907
+8001,Poland,Historical,Vans,EV,2017,0.046999998390675
+8023,Poland,Historical,Buses,EV,2018,1.70000004768372
+8026,Poland,Historical,Vans,EV,2018,0.061000000685454
+8028,Poland,Historical,Cars,EV,2018,0.259999990463257
+8033,Poland,Historical,Cars,EV,2019,0.490000009536743
+8035,Poland,Historical,Vans,EV,2019,0.189999997615814
+8038,Poland,Historical,Buses,EV,2019,1.20000004768372
+8063,Poland,Historical,Buses,EV,2020,40.0
+8066,Poland,Historical,Vans,EV,2020,0.370000004768372
+8068,Poland,Historical,Cars,EV,2020,1.89999997615814
+8073,Poland,Historical,Cars,EV,2021,3.59999990463257
+8075,Poland,Historical,Vans,EV,2021,1.10000002384186
+8078,Poland,Historical,Buses,EV,2021,16.0
+8107,Poland,Historical,Buses,EV,2022,16.0
+8110,Poland,Historical,Vans,EV,2022,1.79999995231628
+8112,Poland,Historical,Cars,EV,2022,6.0
+8117,Poland,Historical,Cars,EV,2023,6.59999990463257
+8119,Poland,Historical,Vans,EV,2023,3.79999995231628
+8122,Poland,Historical,Buses,EV,2023,20.0
+8141,Portugal,Historical,Cars,EV,2010,0.005799999926239
+8142,Portugal,Historical,Cars,EV,2011,0.109999999403954
+8155,Portugal,Historical,Cars,EV,2012,0.087999999523163
+8156,Portugal,Historical,Cars,EV,2013,0.170000001788139
+8158,Portugal,Historical,Vans,EV,2013,0.150000005960464
+8174,Portugal,Historical,Vans,EV,2014,0.100000001490116
+8175,Portugal,Historical,Buses,EV,2014,0.839999973773956
+8177,Portugal,Historical,Cars,EV,2014,0.200000002980232
+8178,Portugal,Historical,Cars,EV,2015,0.620000004768372
+8193,Portugal,Historical,Cars,EV,2016,0.870000004768372
+8194,Portugal,Historical,Cars,EV,2017,2.0
+8196,Portugal,Historical,Buses,EV,2017,0.519999980926514
+8197,Portugal,Historical,Vans,EV,2017,0.560000002384186
+8222,Portugal,Historical,Vans,EV,2018,0.670000016689301
+8223,Portugal,Historical,Buses,EV,2018,1.89999997615814
+8225,Portugal,Historical,Cars,EV,2018,3.59999990463257
+8226,Portugal,Historical,Cars,EV,2019,5.59999990463257
+8228,Portugal,Historical,Buses,EV,2019,4.90000009536743
+8229,Portugal,Historical,Vans,EV,2019,0.620000004768372
+8257,Portugal,Historical,Vans,EV,2020,0.990000009536743
+8258,Portugal,Historical,Buses,EV,2020,2.20000004768372
+8260,Portugal,Historical,Cars,EV,2020,13.0
+8261,Portugal,Historical,Cars,EV,2021,20.0
+8263,Portugal,Historical,Buses,EV,2021,7.40000009536743
+8264,Portugal,Historical,Vans,EV,2021,1.29999995231628
+8301,Portugal,Historical,Vans,EV,2022,4.30000019073486
+8302,Portugal,Historical,Buses,EV,2022,5.30000019073486
+8304,Portugal,Historical,Cars,EV,2022,22.0
+8305,Portugal,Historical,Cars,EV,2023,32.0
+8307,Portugal,Historical,Buses,EV,2023,36.0
+8308,Portugal,Historical,Vans,EV,2023,8.60000038146973
+8338,Rest of the world,Historical,Cars,EV,2011,0.000319999991916
+8368,Rest of the world,Historical,Cars,EV,2012,0.00359999993816
+8372,Rest of the world,Historical,Cars,EV,2013,0.001700000022538
+8405,Rest of the world,Historical,Cars,EV,2014,0.004300000146031
+8408,Rest of the world,Historical,Cars,EV,2015,0.037999998778105
+8445,Rest of the world,Historical,Cars,EV,2016,0.016000000759959
+8448,Rest of the world,Historical,Cars,EV,2017,0.023000000044704
+8450,Rest of the world,Historical,Buses,EV,2017,0.004600000102073
+8495,Rest of the world,Historical,Buses,EV,2018,0.027000000700355
+8497,Rest of the world,Historical,Cars,EV,2018,0.037000000476837
+8500,Rest of the world,Historical,Cars,EV,2019,0.082000002264977
+8502,Rest of the world,Historical,Buses,EV,2019,0.032999999821186
+8538,Rest of the world,Projection-APS,Buses,EV,2020,0.230000004172325
+8539,Rest of the world,Projection-APS,Vans,EV,2020,0.469999998807907
+8563,Rest of the world,Projection-APS,Cars,EV,2020,0.790000021457672
+8565,Rest of the world,Projection-APS,Trucks,EV,2020,0.0046999999322
+8567,Rest of the world,Projection-STEPS,Buses,EV,2020,0.230000004172325
+8568,Rest of the world,Projection-STEPS,Vans,EV,2020,0.469999998807907
+8570,Rest of the world,Projection-STEPS,Cars,EV,2020,0.790000021457672
+8573,Rest of the world,Projection-STEPS,Trucks,EV,2020,0.0046999999322
+8637,Rest of the world,Historical,Buses,EV,2020,0.150000005960464
+8639,Rest of the world,Historical,Cars,EV,2020,0.180000007152557
+8642,Rest of the world,Historical,Cars,EV,2021,0.280000001192093
+8644,Rest of the world,Historical,Buses,EV,2021,0.100000001490116
+8699,Rest of the world,Projection-STEPS,Trucks,EV,2021,0.017000000923872
+8702,Rest of the world,Projection-STEPS,Cars,EV,2021,1.39999997615814
+8704,Rest of the world,Projection-STEPS,Vans,EV,2021,0.730000019073486
+8705,Rest of the world,Projection-STEPS,Buses,EV,2021,0.170000001788139
+8707,Rest of the world,Projection-APS,Trucks,EV,2021,0.017000000923872
+8709,Rest of the world,Projection-APS,Cars,EV,2021,1.39999997615814
+8747,Rest of the world,Projection-APS,Vans,EV,2021,0.730000019073486
+8748,Rest of the world,Projection-APS,Buses,EV,2021,0.170000001788139
+8777,Rest of the world,Projection-APS,Buses,EV,2022,0.400000005960465
+8778,Rest of the world,Projection-APS,Vans,EV,2022,1.0
+8816,Rest of the world,Projection-APS,Cars,EV,2022,2.5
+8818,Rest of the world,Projection-APS,Trucks,EV,2022,0.070000000298023
+8820,Rest of the world,Projection-STEPS,Buses,EV,2022,0.400000005960465
+8821,Rest of the world,Projection-STEPS,Vans,EV,2022,1.0
+8823,Rest of the world,Projection-STEPS,Cars,EV,2022,2.5
+8826,Rest of the world,Projection-STEPS,Trucks,EV,2022,0.070000000298023
+8879,Rest of the world,Historical,Buses,EV,2022,0.25
+8881,Rest of the world,Historical,Cars,EV,2022,0.670000016689301
+8884,Rest of the world,Historical,Cars,EV,2023,1.5
+8886,Rest of the world,Historical,Buses,EV,2023,0.109999999403954
+8941,Rest of the world,Projection-STEPS,Trucks,EV,2023,0.129999995231628
+8944,Rest of the world,Projection-STEPS,Cars,EV,2023,3.90000009536743
+8946,Rest of the world,Projection-STEPS,Vans,EV,2023,1.20000004768372
+8947,Rest of the world,Projection-STEPS,Buses,EV,2023,0.560000002384186
+8949,Rest of the world,Projection-APS,Trucks,EV,2023,0.129999995231628
+8951,Rest of the world,Projection-APS,Cars,EV,2023,3.90000009536743
+8988,Rest of the world,Projection-APS,Vans,EV,2023,1.20000004768372
+8989,Rest of the world,Projection-APS,Buses,EV,2023,0.560000002384186
+9006,Rest of the world,Projection-APS,Buses,EV,2025,3.0
+9007,Rest of the world,Projection-APS,Vans,EV,2025,5.0
+9008,Rest of the world,Projection-APS,Trucks,EV,2025,0.72000002861023
+9025,Rest of the world,Projection-APS,Cars,EV,2025,9.0
+9030,Rest of the world,Projection-STEPS,Trucks,EV,2025,0.370000004768372
+9031,Rest of the world,Projection-STEPS,Buses,EV,2025,2.0
+9032,Rest of the world,Projection-STEPS,Vans,EV,2025,3.0
+9034,Rest of the world,Projection-STEPS,Cars,EV,2025,7.0
+9159,Rest of the world,Projection-STEPS,Cars,EV,2030,14.0
+9161,Rest of the world,Projection-STEPS,Vans,EV,2030,8.0
+9162,Rest of the world,Projection-STEPS,Buses,EV,2030,7.0
+9163,Rest of the world,Projection-STEPS,Trucks,EV,2030,2.0
+9168,Rest of the world,Projection-APS,Cars,EV,2030,24.0
+9170,Rest of the world,Projection-APS,Vans,EV,2030,18.0
+9186,Rest of the world,Projection-APS,Trucks,EV,2030,4.0
+9187,Rest of the world,Projection-APS,Buses,EV,2030,14.0
+9190,Rest of the world,Projection-APS,Buses,EV,2035,29.0
+9191,Rest of the world,Projection-APS,Trucks,EV,2035,11.0
+9207,Rest of the world,Projection-APS,Vans,EV,2035,45.0
+9209,Rest of the world,Projection-APS,Cars,EV,2035,46.0
+9214,Rest of the world,Projection-STEPS,Trucks,EV,2035,4.0
+9215,Rest of the world,Projection-STEPS,Buses,EV,2035,19.0
+9216,Rest of the world,Projection-STEPS,Vans,EV,2035,15.0
+9218,Rest of the world,Projection-STEPS,Cars,EV,2035,20.0
+9281,Romania,Historical,Cars,EV,2015,0.029999999329448
+9284,Romania,Historical,Cars,EV,2016,0.079999998211861
+9285,Romania,Historical,Cars,EV,2017,0.180000007152557
+9288,Romania,Historical,Cars,EV,2018,0.46000000834465
+9289,Romania,Historical,Cars,EV,2019,0.930000007152557
+9293,Romania,Historical,Cars,EV,2020,3.09999990463257
+9294,Romania,Historical,Cars,EV,2021,5.19999980926514
+9297,Romania,Historical,Cars,EV,2022,9.0
+9298,Romania,Historical,Cars,EV,2023,11.0
+9300,Seychelles,Historical,Cars,EV,2015,0.150000005960464
+9303,Seychelles,Historical,Cars,EV,2016,0.629999995231628
+9304,Seychelles,Historical,Cars,EV,2017,2.0
+9307,Seychelles,Historical,Cars,EV,2018,2.29999995231628
+9308,Seychelles,Historical,Cars,EV,2019,2.59999990463257
+9311,Seychelles,Historical,Cars,EV,2020,3.29999995231628
+9312,Seychelles,Historical,Cars,EV,2021,4.19999980926514
+9315,Seychelles,Historical,Cars,EV,2022,1.70000004768372
+9316,Seychelles,Historical,Cars,EV,2023,5.0
+9318,Slovakia,Historical,Cars,EV,2015,0.070000000298023
+9321,Slovakia,Historical,Cars,EV,2016,0.070000000298023
+9322,Slovakia,Historical,Cars,EV,2017,0.219999998807907
+9325,Slovakia,Historical,Cars,EV,2018,0.300000011920929
+9326,Slovakia,Historical,Cars,EV,2019,0.360000014305115
+9331,Slovakia,Historical,Cars,EV,2020,2.29999995231628
+9332,Slovakia,Historical,Cars,EV,2021,3.0
+9337,Slovakia,Historical,Cars,EV,2022,3.70000004768372
+9338,Slovakia,Historical,Cars,EV,2023,6.09999990463257
+9343,Slovenia,Historical,Cars,EV,2016,0.319999992847443
+9345,Slovenia,Historical,Cars,EV,2017,0.639999985694885
+9348,Slovenia,Historical,Cars,EV,2018,0.910000026226044
+9351,Slovenia,Historical,Cars,EV,2019,0.28999999165535
+9354,Slovenia,Historical,Cars,EV,2020,3.09999990463257
+9357,Slovenia,Historical,Cars,EV,2021,3.79999995231628
+9360,Slovenia,Historical,Cars,EV,2022,6.19999980926514
+9363,Slovenia,Historical,Cars,EV,2023,11.0
+9366,South Africa,Historical,Cars,EV,2013,0.007499999832362
+9373,South Africa,Historical,Cars,EV,2014,0.003400000045076
+9376,South Africa,Historical,Cars,EV,2015,0.05799999833107
+9385,South Africa,Historical,Cars,EV,2016,0.100000001490116
+9388,South Africa,Historical,Cars,EV,2017,0.052999999374151
+9401,South Africa,Historical,Cars,EV,2018,0.041000001132488
+9404,South Africa,Historical,Cars,EV,2019,0.064000003039837
+9417,South Africa,Historical,Cars,EV,2020,0.097999997437
+9420,South Africa,Historical,Cars,EV,2021,0.087999999523163
+9437,South Africa,Historical,Cars,EV,2022,0.170000001788139
+9440,South Africa,Historical,Cars,EV,2023,0.28999999165535
+9450,Spain,Historical,Cars,EV,2010,0.007699999958277
+9453,Spain,Historical,Cars,EV,2011,0.0489999987185
+9454,Spain,Historical,Vans,EV,2011,0.023000000044704
+9465,Spain,Historical,Vans,EV,2012,0.270000010728836
+9466,Spain,Historical,Cars,EV,2012,0.07599999755621
+9472,Spain,Historical,Cars,EV,2013,0.119999997317791
+9473,Spain,Historical,Vans,EV,2013,0.083999998867512
+9485,Spain,Historical,Vans,EV,2014,0.310000002384186
+9486,Spain,Historical,Buses,EV,2014,0.409999996423721
+9487,Spain,Historical,Cars,EV,2014,0.200000002980232
+9494,Spain,Historical,Cars,EV,2015,0.200000002980232
+9496,Spain,Historical,Buses,EV,2015,0.059000000357628
+9497,Spain,Historical,Vans,EV,2015,0.370000004768372
+9513,Spain,Historical,Vans,EV,2016,0.469999998807907
+9514,Spain,Historical,Buses,EV,2016,0.649999976158142
+9516,Spain,Historical,Cars,EV,2016,0.310000002384186
+9518,Spain,Historical,Trucks,EV,2016,0.052000001072884
+9523,Spain,Historical,Trucks,EV,2017,0.008100000210106
+9526,Spain,Historical,Cars,EV,2017,0.600000023841858
+9528,Spain,Historical,Buses,EV,2017,0.300000011920929
+9529,Spain,Historical,Vans,EV,2017,0.509999990463257
+9553,Spain,Historical,Vans,EV,2018,0.959999978542328
+9554,Spain,Historical,Buses,EV,2018,0.910000026226044
+9556,Spain,Historical,Cars,EV,2018,0.879999995231628
+9564,Spain,Historical,Trucks,EV,2019,0.028000000864267
+9566,Spain,Historical,Cars,EV,2019,1.39999997615814
+9569,Spain,Historical,Buses,EV,2019,2.70000004768372
+9570,Spain,Historical,Vans,EV,2019,1.10000002384186
+9601,Spain,Historical,Vans,EV,2020,1.5
+9602,Spain,Historical,Buses,EV,2020,2.0
+9605,Spain,Historical,Cars,EV,2020,4.90000009536743
+9607,Spain,Historical,Trucks,EV,2020,0.041000001132488
+9613,Spain,Historical,Trucks,EV,2021,0.109999999403954
+9615,Spain,Historical,Cars,EV,2021,7.80000019073486
+9618,Spain,Historical,Buses,EV,2021,6.09999990463257
+9619,Spain,Historical,Vans,EV,2021,1.60000002384186
+9657,Spain,Historical,Vans,EV,2022,3.09999990463257
+9658,Spain,Historical,Buses,EV,2022,9.19999980926514
+9661,Spain,Historical,Cars,EV,2022,8.89999961853027
+9663,Spain,Historical,Trucks,EV,2022,0.889999985694885
+9666,Spain,Historical,Trucks,EV,2023,1.5
+9668,Spain,Historical,Cars,EV,2023,12.0
+9671,Spain,Historical,Buses,EV,2023,13.0
+9672,Spain,Historical,Vans,EV,2023,7.19999980926514
+9695,Sweden,Historical,Cars,EV,2010,0.001300000003539
+9698,Sweden,Historical,Cars,EV,2011,0.054000001400709
+9699,Sweden,Historical,Vans,EV,2011,0.018999999389052
+9713,Sweden,Historical,Vans,EV,2012,0.699999988079071
+9715,Sweden,Historical,Cars,EV,2012,0.310000002384186
+9718,Sweden,Historical,Cars,EV,2013,0.529999971389771
+9720,Sweden,Historical,Vans,EV,2013,0.550000011920929
+9742,Sweden,Historical,Vans,EV,2014,0.660000026226044
+9744,Sweden,Historical,Cars,EV,2014,1.39999997615814
+9747,Sweden,Historical,Cars,EV,2015,2.40000009536743
+9749,Sweden,Historical,Buses,EV,2015,1.10000002384186
+9750,Sweden,Historical,Vans,EV,2015,0.72000002861023
+9782,Sweden,Historical,Vans,EV,2016,0.083999998867512
+9783,Sweden,Historical,Buses,EV,2016,3.79999995231628
+9785,Sweden,Historical,Cars,EV,2016,3.40000009536743
+9788,Sweden,Historical,Cars,EV,2017,5.09999990463257
+9791,Sweden,Historical,Buses,EV,2017,0.910000026226044
+9792,Sweden,Historical,Vans,EV,2017,0.340000003576279
+9826,Sweden,Historical,Vans,EV,2018,1.29999995231628
+9827,Sweden,Historical,Buses,EV,2018,4.09999990463257
+9830,Sweden,Historical,Cars,EV,2018,7.59999990463257
+9832,Sweden,Historical,Trucks,EV,2018,0.046000000089407
+9833,Sweden,Historical,Trucks,EV,2019,0.043000001460314
+9835,Sweden,Historical,Cars,EV,2019,11.0
+9838,Sweden,Historical,Buses,EV,2019,7.40000009536743
+9839,Sweden,Historical,Vans,EV,2019,2.5
+9874,Sweden,Historical,Vans,EV,2020,6.09999990463257
+9875,Sweden,Historical,Buses,EV,2020,9.89999961853027
+9878,Sweden,Historical,Cars,EV,2020,32.0
+9880,Sweden,Historical,Trucks,EV,2020,0.349999994039536
+9881,Sweden,Historical,Trucks,EV,2021,1.29999995231628
+9883,Sweden,Historical,Cars,EV,2021,43.0
+9886,Sweden,Historical,Buses,EV,2021,25.0
+9887,Sweden,Historical,Vans,EV,2021,6.80000019073486
+9927,Sweden,Historical,Vans,EV,2022,13.0
+9928,Sweden,Historical,Buses,EV,2022,17.0
+9931,Sweden,Historical,Cars,EV,2022,54.0
+9933,Sweden,Historical,Trucks,EV,2022,4.30000019073486
+9934,Sweden,Historical,Trucks,EV,2023,3.40000009536743
+9936,Sweden,Historical,Cars,EV,2023,60.0
+9939,Sweden,Historical,Buses,EV,2023,25.0
+9940,Sweden,Historical,Vans,EV,2023,19.0
+9966,Switzerland,Historical,Cars,EV,2011,0.140000000596046
+9969,Switzerland,Historical,Cars,EV,2012,0.230000004172325
+9970,Switzerland,Historical,Vans,EV,2012,0.379999995231628
+9989,Switzerland,Historical,Vans,EV,2013,0.379999995231628
+9990,Switzerland,Historical,Cars,EV,2013,0.430000007152557
+9993,Switzerland,Historical,Cars,EV,2014,0.959999978542328
+9994,Switzerland,Historical,Vans,EV,2014,0.180000007152557
+10016,Switzerland,Historical,Vans,EV,2015,0.509999990463257
+10017,Switzerland,Historical,Cars,EV,2015,1.70000004768372
+10021,Switzerland,Historical,Buses,EV,2016,0.610000014305115
+10023,Switzerland,Historical,Cars,EV,2016,1.89999997615814
+10024,Switzerland,Historical,Vans,EV,2016,0.280000001192093
+10056,Switzerland,Historical,Vans,EV,2017,0.670000016689301
+10057,Switzerland,Historical,Cars,EV,2017,2.70000004768372
+10059,Switzerland,Historical,Buses,EV,2017,0.25
+10062,Switzerland,Historical,Buses,EV,2018,2.29999995231628
+10064,Switzerland,Historical,Cars,EV,2018,3.20000004768372
+10065,Switzerland,Historical,Vans,EV,2018,0.899999976158142
+10098,Switzerland,Historical,Vans,EV,2019,1.60000002384186
+10099,Switzerland,Historical,Cars,EV,2019,5.59999990463257
+10101,Switzerland,Historical,Buses,EV,2019,1.29999995231628
+10103,Switzerland,Historical,Trucks,EV,2019,0.790000021457672
+10104,Switzerland,Historical,Trucks,EV,2020,0.959999978542328
+10106,Switzerland,Historical,Buses,EV,2020,3.29999995231628
+10108,Switzerland,Historical,Cars,EV,2020,14.0
+10109,Switzerland,Historical,Vans,EV,2020,2.79999995231628
+10147,Switzerland,Historical,Vans,EV,2021,3.90000009536743
+10148,Switzerland,Historical,Cars,EV,2021,23.0
+10150,Switzerland,Historical,Buses,EV,2021,6.80000019073486
+10152,Switzerland,Historical,Trucks,EV,2021,1.29999995231628
+10153,Switzerland,Historical,Trucks,EV,2022,4.90000009536743
+10156,Switzerland,Historical,Buses,EV,2022,23.0
+10158,Switzerland,Historical,Cars,EV,2022,26.0
+10159,Switzerland,Historical,Vans,EV,2022,9.60000038146973
+10200,Switzerland,Historical,Vans,EV,2023,13.0
+10201,Switzerland,Historical,Cars,EV,2023,30.0
+10203,Switzerland,Historical,Buses,EV,2023,65.0
+10206,Switzerland,Historical,Trucks,EV,2023,8.19999980926514
+10222,Turkiye,Historical,Cars,EV,2012,0.016000000759959
+10223,Turkiye,Historical,Cars,EV,2013,0.000119999996969
+10233,Turkiye,Historical,Cars,EV,2014,0.012000000104308
+10234,Turkiye,Historical,Cars,EV,2015,0.030999999493361
+10247,Turkiye,Historical,Cars,EV,2016,0.013000000268221
+10248,Turkiye,Historical,Cars,EV,2017,0.010999999940395
+10263,Turkiye,Historical,Cars,EV,2018,0.043999999761582
+10264,Turkiye,Historical,Cars,EV,2019,0.06700000166893
+10279,Turkiye,Historical,Cars,EV,2020,0.170000001788139
+10280,Turkiye,Historical,Cars,EV,2021,0.550000011920929
+10295,Turkiye,Historical,Cars,EV,2022,1.10000002384186
+10296,Turkiye,Historical,Cars,EV,2023,10.0
+10305,United Arab Emirates,Historical,Cars,EV,2018,0.025000000372529
+10308,United Arab Emirates,Historical,Cars,EV,2019,0.026000000536442
+10311,United Arab Emirates,Historical,Cars,EV,2020,0.529999971389771
+10314,United Arab Emirates,Historical,Cars,EV,2021,2.59999990463257
+10317,United Arab Emirates,Historical,Cars,EV,2022,11.0
+10319,United Arab Emirates,Historical,Cars,EV,2023,13.0
+10336,United Kingdom,Historical,Cars,EV,2010,0.013000000268221
+10337,United Kingdom,Historical,Trucks,EV,2010,0.025000000372529
+10338,United Kingdom,Historical,Buses,EV,2010,0.041999999433756
+10339,United Kingdom,Historical,Vans,EV,2010,0.100000001490116
+10342,United Kingdom,Historical,Vans,EV,2011,0.08500000089407
+10343,United Kingdom,Historical,Buses,EV,2011,0.026000000536442
+10344,United Kingdom,Historical,Trucks,EV,2011,0.012000000104308
+10345,United Kingdom,Historical,Cars,EV,2011,0.061999998986721
+10377,United Kingdom,Historical,Cars,EV,2012,0.129999995231628
+10378,United Kingdom,Historical,Trucks,EV,2012,0.014000000432134
+10379,United Kingdom,Historical,Buses,EV,2012,0.150000005960464
+10380,United Kingdom,Historical,Vans,EV,2012,0.170000001788139
+10383,United Kingdom,Historical,Vans,EV,2013,0.109999999403954
+10384,United Kingdom,Historical,Buses,EV,2013,0.259999990463257
+10385,United Kingdom,Historical,Cars,EV,2013,0.159999996423721
+10419,United Kingdom,Historical,Cars,EV,2014,0.589999973773956
+10420,United Kingdom,Historical,Trucks,EV,2014,0.020999999716878
+10421,United Kingdom,Historical,Buses,EV,2014,0.540000021457672
+10422,United Kingdom,Historical,Vans,EV,2014,0.25
+10425,United Kingdom,Historical,Vans,EV,2015,0.280000001192093
+10426,United Kingdom,Historical,Buses,EV,2015,0.140000000596046
+10427,United Kingdom,Historical,Trucks,EV,2015,0.006000000052154
+10428,United Kingdom,Historical,Cars,EV,2015,1.10000002384186
+10470,United Kingdom,Historical,Cars,EV,2016,1.39999997615814
+10471,United Kingdom,Historical,Trucks,EV,2016,0.014999999664724
+10472,United Kingdom,Historical,Buses,EV,2016,1.20000004768372
+10473,United Kingdom,Historical,Vans,EV,2016,0.28999999165535
+10476,United Kingdom,Historical,Buses,EV,2017,0.469999998807907
+10477,United Kingdom,Historical,Trucks,EV,2017,0.007699999958277
+10478,United Kingdom,Historical,Cars,EV,2017,1.89999997615814
+10480,United Kingdom,Historical,Vans,EV,2017,0.370000004768372
+10526,United Kingdom,Historical,Vans,EV,2018,0.449999988079071
+10528,United Kingdom,Historical,Cars,EV,2018,2.59999990463257
+10529,United Kingdom,Historical,Trucks,EV,2018,0.024000000208616
+10530,United Kingdom,Historical,Buses,EV,2018,1.0
+10533,United Kingdom,Historical,Buses,EV,2019,1.39999997615814
+10534,United Kingdom,Historical,Cars,EV,2019,3.29999995231628
+10536,United Kingdom,Historical,Vans,EV,2019,0.97000002861023
+10541,United Kingdom,Historical,Trucks,EV,2019,0.035999998450279
+10575,United Kingdom,Historical,Trucks,EV,2020,0.032999999821186
+10580,United Kingdom,Historical,Vans,EV,2020,2.09999990463257
+10582,United Kingdom,Historical,Cars,EV,2020,11.0
+10583,United Kingdom,Historical,Buses,EV,2020,11.0
+10586,United Kingdom,Historical,Buses,EV,2021,8.69999980926514
+10587,United Kingdom,Historical,Cars,EV,2021,19.0
+10589,United Kingdom,Historical,Vans,EV,2021,3.79999995231628
+10594,United Kingdom,Historical,Trucks,EV,2021,0.340000003576279
+10630,United Kingdom,Historical,Trucks,EV,2022,1.10000002384186
+10635,United Kingdom,Historical,Vans,EV,2022,6.19999980926514
+10637,United Kingdom,Historical,Cars,EV,2022,23.0
+10638,United Kingdom,Historical,Buses,EV,2022,6.5
+10641,United Kingdom,Historical,Buses,EV,2023,17.0
+10642,United Kingdom,Historical,Cars,EV,2023,24.0
+10644,United Kingdom,Historical,Vans,EV,2023,6.5
+10649,United Kingdom,Historical,Trucks,EV,2023,2.70000004768372
+10674,USA,Historical,Cars,EV,2010,0.012000000104308
+10675,USA,Historical,Cars,EV,2011,0.150000005960464
+10678,USA,Historical,Buses,EV,2011,0.239999994635582
+10705,USA,Historical,Buses,EV,2012,0.002799999900162
+10708,USA,Historical,Cars,EV,2012,0.419999986886978
+10709,USA,Historical,Cars,EV,2013,0.709999978542328
+10712,USA,Historical,Buses,EV,2013,0.003400000045076
+10741,USA,Historical,Buses,EV,2014,0.019999999552965
+10744,USA,Historical,Cars,EV,2014,0.769999980926514
+10745,USA,Historical,Cars,EV,2015,0.699999988079071
+10748,USA,Historical,Buses,EV,2015,0.439999997615814
+10786,USA,Historical,Buses,EV,2016,0.180000007152557
+10789,USA,Historical,Cars,EV,2016,0.990000009536743
+10790,USA,Historical,Cars,EV,2017,1.29999995231628
+10793,USA,Historical,Buses,EV,2017,0.109999999403954
+10830,USA,Historical,Buses,EV,2018,0.370000004768372
+10833,USA,Historical,Cars,EV,2018,2.29999995231628
+10834,USA,Historical,Cars,EV,2019,2.09999990463257
+10837,USA,Historical,Buses,EV,2019,0.560000002384186
+10901,USA,Projection-STEPS,Cars,EV,2020,2.29999995231628
+10902,USA,Projection-STEPS,Buses,EV,2020,0.28999999165535
+10904,USA,Projection-APS,Cars,EV,2020,2.29999995231628
+10907,USA,Projection-APS,Buses,EV,2020,0.28999999165535
+10921,USA,Historical,Buses,EV,2020,0.28999999165535
+10924,USA,Historical,Cars,EV,2020,2.29999995231628
+10925,USA,Historical,Cars,EV,2021,4.69999980926514
+10928,USA,Historical,Buses,EV,2021,1.20000004768372
+10942,USA,Projection-APS,Buses,EV,2021,1.20000004768372
+10945,USA,Projection-APS,Cars,EV,2021,4.69999980926514
+10947,USA,Projection-STEPS,Buses,EV,2021,1.20000004768372
+10948,USA,Projection-STEPS,Cars,EV,2021,4.69999980926514
+11039,USA,Projection-STEPS,Cars,EV,2022,7.40000009536743
+11040,USA,Projection-STEPS,Buses,EV,2022,2.70000004768372
+11042,USA,Projection-APS,Cars,EV,2022,7.40000009536743
+11045,USA,Projection-APS,Buses,EV,2022,2.70000004768372
+11059,USA,Historical,Buses,EV,2022,2.70000004768372
+11062,USA,Historical,Cars,EV,2022,7.40000009536743
+11063,USA,Historical,Cars,EV,2023,9.5
+11066,USA,Historical,Buses,EV,2023,0.769999980926514
+11080,USA,Projection-APS,Buses,EV,2023,0.769999980926514
+11082,USA,Projection-APS,Cars,EV,2023,9.5
+11084,USA,Projection-STEPS,Buses,EV,2023,0.769999980926514
+11085,USA,Projection-STEPS,Cars,EV,2023,9.5
+11144,USA,Projection-STEPS,Trucks,EV,2025,2.0
+11146,USA,Projection-STEPS,Vans,EV,2025,8.0
+11147,USA,Projection-STEPS,Cars,EV,2025,20.0
+11149,USA,Projection-STEPS,Buses,EV,2025,11.0
+11151,USA,Projection-APS,Cars,EV,2025,20.0
+11153,USA,Projection-APS,Vans,EV,2025,8.0
+11156,USA,Projection-APS,Buses,EV,2025,11.0
+11158,USA,Projection-APS,Trucks,EV,2025,6.0
+11270,USA,Projection-APS,Trucks,EV,2030,34.0
+11272,USA,Projection-APS,Buses,EV,2030,37.0
+11275,USA,Projection-APS,Vans,EV,2030,44.0
+11277,USA,Projection-APS,Cars,EV,2030,55.0
+11279,USA,Projection-STEPS,Buses,EV,2030,35.0
+11281,USA,Projection-STEPS,Cars,EV,2030,55.0
+11282,USA,Projection-STEPS,Vans,EV,2030,44.0
+11284,USA,Projection-STEPS,Trucks,EV,2030,20.0
+11350,USA,Projection-STEPS,Trucks,EV,2035,48.0
+11352,USA,Projection-STEPS,Vans,EV,2035,72.0
+11353,USA,Projection-STEPS,Cars,EV,2035,71.0
+11355,USA,Projection-STEPS,Buses,EV,2035,60.0
+11357,USA,Projection-APS,Cars,EV,2035,71.0
+11359,USA,Projection-APS,Vans,EV,2035,78.0
+11362,USA,Projection-APS,Buses,EV,2035,74.0
+11364,USA,Projection-APS,Trucks,EV,2035,69.0
+11404,World,Historical,Cars,EV,2010,0.010999999940395
+11406,World,Historical,Trucks,EV,2010,0.000730000028852
+11430,World,Historical,Buses,EV,2010,0.052000001072884
+11438,World,Historical,Vans,EV,2010,0.018999999389052
+11444,World,Historical,Vans,EV,2011,0.041000001132488
+11452,World,Historical,Buses,EV,2011,0.048000000417233
+11477,World,Historical,Trucks,EV,2011,0.003000000026077
+11479,World,Historical,Cars,EV,2011,0.068000003695488
+11480,World,Historical,Cars,EV,2012,0.159999996423721
+11482,World,Historical,Trucks,EV,2012,0.000490000005811
+11508,World,Historical,Buses,EV,2012,0.109999999403954
+11516,World,Historical,Vans,EV,2012,0.119999997317791
+11522,World,Historical,Vans,EV,2013,0.129999995231628
+11529,World,Historical,Buses,EV,2013,0.209999993443489
+11556,World,Historical,Trucks,EV,2013,0.000690000015311
+11558,World,Historical,Cars,EV,2013,0.270000010728836
+11561,World,Historical,Cars,EV,2014,0.409999996423721
+11563,World,Historical,Trucks,EV,2014,0.00089999998454
+11590,World,Historical,Buses,EV,2014,0.509999990463257
+11597,World,Historical,Vans,EV,2014,0.119999997317791
+11606,World,Historical,Vans,EV,2015,0.28999999165535
+11619,World,Historical,Buses,EV,2015,2.79999995231628
+11641,World,Historical,Trucks,EV,2015,0.310000002384186
+11643,World,Historical,Cars,EV,2015,0.680000007152557
+11646,World,Historical,Cars,EV,2016,0.899999976158142
+11648,World,Historical,Trucks,EV,2016,0.810000002384186
+11666,World,Historical,Buses,EV,2016,4.0
+11683,World,Historical,Vans,EV,2016,0.239999994635582
+11695,World,Historical,Vans,EV,2017,0.870000004768372
+11712,World,Historical,Buses,EV,2017,5.0
+11730,World,Historical,Trucks,EV,2017,1.20000004768372
+11732,World,Historical,Cars,EV,2017,1.39999997615814
+11735,World,Historical,Cars,EV,2018,2.40000009536743
+11737,World,Historical,Trucks,EV,2018,0.600000023841858
+11755,World,Historical,Buses,EV,2018,5.0
+11773,World,Historical,Vans,EV,2018,0.779999971389771
+11786,World,Historical,Vans,EV,2019,0.560000002384186
+11804,World,Historical,Buses,EV,2019,4.40000009536743
+11822,World,Historical,Trucks,EV,2019,0.409999996423721
+11824,World,Historical,Cars,EV,2019,2.59999990463257
+11827,World,Historical,Cars,EV,2020,4.19999980926514
+11837,World,Historical,Trucks,EV,2020,0.28999999165535
+11867,World,Historical,Buses,EV,2020,4.59999990463257
+11892,World,Historical,Vans,EV,2020,0.920000016689301
+11925,World,Projection-APS,Vans,EV,2020,0.920000016689301
+11927,World,Projection-APS,Buses,EV,2020,4.59999990463257
+11928,World,Projection-APS,Cars,EV,2020,4.19999980926514
+11930,World,Projection-APS,Trucks,EV,2020,0.28999999165535
+11932,World,Projection-STEPS,Vans,EV,2020,0.920000016689301
+11934,World,Projection-STEPS,Buses,EV,2020,4.59999990463257
+11936,World,Projection-STEPS,Cars,EV,2020,4.19999980926514
+11938,World,Projection-STEPS,Trucks,EV,2020,0.28999999165535
+11989,World,Projection-STEPS,Trucks,EV,2021,0.319999992847443
+11991,World,Projection-STEPS,Cars,EV,2021,8.89999961853027
+11993,World,Projection-STEPS,Buses,EV,2021,3.5
+11995,World,Projection-STEPS,Vans,EV,2021,1.70000004768372
+11997,World,Projection-APS,Trucks,EV,2021,0.319999992847443
+11999,World,Projection-APS,Cars,EV,2021,8.89999961853027
+12000,World,Projection-APS,Buses,EV,2021,3.5
+12002,World,Projection-APS,Vans,EV,2021,1.70000004768372
+12035,World,Historical,Vans,EV,2021,1.70000004768372
+12046,World,Historical,Buses,EV,2021,3.5
+12090,World,Historical,Trucks,EV,2021,0.319999992847443
+12100,World,Historical,Cars,EV,2021,8.89999961853027
+12103,World,Historical,Cars,EV,2022,14.0
+12113,World,Historical,Trucks,EV,2022,0.740000009536743
+12156,World,Historical,Buses,EV,2022,3.79999995231628
+12165,World,Historical,Vans,EV,2022,3.20000004768372
+12199,World,Projection-APS,Vans,EV,2022,3.20000004768372
+12201,World,Projection-APS,Buses,EV,2022,3.79999995231628
+12202,World,Projection-APS,Cars,EV,2022,14.0
+12204,World,Projection-APS,Trucks,EV,2022,0.740000009536743
+12206,World,Projection-STEPS,Vans,EV,2022,3.20000004768372
+12208,World,Projection-STEPS,Buses,EV,2022,3.79999995231628
+12210,World,Projection-STEPS,Cars,EV,2022,14.0
+12212,World,Projection-STEPS,Trucks,EV,2022,0.740000009536743
+12267,World,Projection-STEPS,Trucks,EV,2023,0.910000026226044
+12269,World,Projection-STEPS,Cars,EV,2023,18.0
+12271,World,Projection-STEPS,Buses,EV,2023,3.09999990463257
+12273,World,Projection-STEPS,Vans,EV,2023,4.40000009536743
+12275,World,Projection-APS,Trucks,EV,2023,0.910000026226044
+12277,World,Projection-APS,Cars,EV,2023,18.0
+12278,World,Projection-APS,Buses,EV,2023,3.09999990463257
+12280,World,Projection-APS,Vans,EV,2023,4.40000009536743
+12314,World,Historical,Vans,EV,2023,4.40000009536743
+12323,World,Historical,Buses,EV,2023,3.09999990463257
+12366,World,Historical,Trucks,EV,2023,0.910000026226044
+12376,World,Historical,Cars,EV,2023,18.0
+12453,World,Projection-APS,Trucks,EV,2025,4.0
+12454,World,Projection-APS,Vans,EV,2025,10.0
+12456,World,Projection-APS,Buses,EV,2025,13.0
+12457,World,Projection-APS,Cars,EV,2025,26.0
+12460,World,Projection-STEPS,Vans,EV,2025,9.0
+12461,World,Projection-STEPS,Trucks,EV,2025,3.0
+12463,World,Projection-STEPS,Buses,EV,2025,11.0
+12465,World,Projection-STEPS,Cars,EV,2025,25.0
+12474,World,Projection-STEPS,Cars,EV,2030,44.0
+12476,World,Projection-STEPS,Buses,EV,2030,17.0
+12478,World,Projection-STEPS,Trucks,EV,2030,12.0
+12479,World,Projection-STEPS,Vans,EV,2030,24.0
+12482,World,Projection-APS,Cars,EV,2030,48.0
+12483,World,Projection-APS,Buses,EV,2030,23.0
+12485,World,Projection-APS,Vans,EV,2030,31.0
+12486,World,Projection-APS,Trucks,EV,2030,15.0
+12637,World,Projection-APS,Trucks,EV,2035,29.0
+12638,World,Projection-APS,Vans,EV,2035,63.0
+12640,World,Projection-APS,Buses,EV,2035,39.0
+12641,World,Projection-APS,Cars,EV,2035,68.0
+12644,World,Projection-STEPS,Vans,EV,2035,41.0
+12645,World,Projection-STEPS,Trucks,EV,2035,22.0
+12647,World,Projection-STEPS,Buses,EV,2035,29.0
+12649,World,Projection-STEPS,Cars,EV,2035,55.0
