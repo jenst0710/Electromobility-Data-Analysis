@@ -9,7 +9,6 @@ EV_sales_powertrain VARCHAR(20),
 EV_sales_year YEAR,
 EV_sales_number_of_vehicles INT NOT NULL,
 PRIMARY KEY (EV_sales_id));
-SELECT * FROM EV_sales WHERE EV_sales_category='Historical'; 
 
 CREATE TABLE IF NOT EXISTS EV_stock(
 EV_stock_id INT NOT NULL,
